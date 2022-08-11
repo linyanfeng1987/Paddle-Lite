@@ -164,7 +164,8 @@ void RunModel(std::string model_dir,
 
   if (!is_opencl_backend_valid) {
     config.set_valid_places({Place{TARGET(kX86), PRECISION(kFloat)},
-                             Place{TARGET(kHost), PRECISION(kFloat)}});
+                             Place{TARGET(kHost), PRECISION(kFloat)},
+                             Place{TARGET(kNNAdapter), PRECISION(kFloat)}});
     std::cout << "OpenCL is not valid on your device. Fallback to cpu."
               << std::endl;
   } else {
@@ -212,6 +213,13 @@ void RunModel(std::string model_dir,
     optimized_model_dir += "_opencl";
   }
 #endif
+  std::string device_name = "lyf_npu";
+  if (config.check_nnadapter_device_name(device_name)) {
+    std::cout << "Get device:" << device_name << " succ." << std::endl;
+    config.set_nnadapter_device_names({device_name});
+  } else {
+    std::cout << "Get device:" << device_name << " failed." << std::endl;
+  }
 
   // 2. Create PaddlePredictor by CxxConfig
   std::shared_ptr<PaddlePredictor> predictor =

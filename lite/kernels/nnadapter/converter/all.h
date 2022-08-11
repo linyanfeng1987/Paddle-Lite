@@ -36,7 +36,7 @@ REGISTER_CONVERTER(conv2d,
                    "builtin_device,rockchip_npu,mediatek_apu,huawei_kirin_npu,"
                    "huawei_ascend_npu,amlogic_npu,imagination_nna,cambricon_"
                    "mlu,verisilicon_timvx,kunlunxin_xtcl,android_nnapi,nvidia_"
-                   "tensorrt,intel_openvino,qualcomm_qnn,eeasytech_npu");
+                   "tensorrt,intel_openvino,qualcomm_qnn,eeasytech_npu,lyf_npu");
 REGISTER_CONVERTER(depthwise_conv2d,
                    ConvertConv2D,
                    "builtin_device,rockchip_npu,mediatek_apu,huawei_kirin_npu,"

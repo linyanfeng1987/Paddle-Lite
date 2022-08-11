@@ -71,6 +71,8 @@ NNADAPTER_INTEL_OPENVINO_SDK_VERSION=""
 NNADAPTER_WITH_GOOGLE_XNNPACK=OFF
 NNADAPTER_GOOGLE_XNNPACK_SRC_GIT_TAG="master"
 
+NNADAPTER_WITH_LYF_NPU=OFF
+NNADAPTER_LYF_SDK_ROOT="$(pwd)/lyf_ddk"
 # options of compiling baidu XPU lib.
 WITH_KUNLUNXIN_XPU=OFF
 KUNLUNXIN_XPU_SDK_URL=""
@@ -110,7 +112,10 @@ readonly THIRDPARTY_TAR=third-party-91a9ab3.tar.gz
 # absolute path of Paddle-Lite.
 readonly workspace=$PWD/$(dirname $0)/../../
 # basic options for linux compiling.
-readonly CMAKE_COMMON_OPTIONS="-DCMAKE_BUILD_TYPE=Release \
+# readonly CMAKE_COMMON_OPTIONS="-DCMAKE_BUILD_TYPE=Release \
+#                             -DWITH_MKLDNN=OFF \
+#                             -DWITH_TESTING=OFF"
+readonly CMAKE_COMMON_OPTIONS="-DCMAKE_BUILD_TYPE=Debug \
                             -DWITH_MKLDNN=OFF \
                             -DWITH_TESTING=OFF"
 
@@ -241,6 +246,8 @@ function init_cmake_mutable_options {
                         -DNNADAPTER_INTEL_OPENVINO_SDK_VERSION=$NNADAPTER_INTEL_OPENVINO_SDK_VERSION \
                         -DNNADAPTER_WITH_GOOGLE_XNNPACK=$NNADAPTER_WITH_GOOGLE_XNNPACK \
                         -DNNADAPTER_GOOGLE_XNNPACK_SRC_GIT_TAG=$NNADAPTER_GOOGLE_XNNPACK_SRC_GIT_TAG \
+                        -DNNADAPTER_WITH_LYF_NPU=$NNADAPTER_WITH_LYF_NPU \
+                        -DNNADAPTER_LYF_NPU_SDK_ROOT=$NNADAPTER_LYF_NPU_SDK_ROOT \
                         -DLITE_WITH_INTEL_FPGA=$WITH_INTEL_FPGA \
                         -DINTEL_FPGA_SDK_ROOT=${INTEL_FPGA_SDK_ROOT} \
                         -DLITE_WITH_PROFILE=${WITH_PROFILE} \
@@ -667,6 +674,14 @@ function main {
                 ;;
             --nnadapter_google_xnnpack_src_git_tag=*)
                 NNADAPTER_GOOGLE_XNNPACK_SRC_GIT_TAG="${i#*=}"
+                shift
+                ;;
+            --nnadapter_with_lyf_npu=*)
+                NNADAPTER_WITH_LYF_NPU="${i#*=}"
+                shift
+                ;;
+            --nnadapter_lyf_npu_sdk_root=*)
+                NNADAPTER_LYF_SDK_ROOT="${i#*=}"
                 shift
                 ;;
             # compiling lib which can operate on baidu xpu.

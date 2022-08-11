@@ -1,0 +1,1951 @@
+[I  8/20  0:54:18.440 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  0:54:18.719 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  0:54:18.848 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  0:54:19.121 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  0:54:19.391 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  0:54:19.662 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  0:54:19.934 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  0:54:20.201 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  0:54:20.328 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  0:54:20.585 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.585 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.585 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.585 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.585 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.585 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.587 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.587 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.587 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.587 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.587 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.587 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  0:54:20.588 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  0:54:20.589 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  0:54:20.589 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+root@WINDOWS-R839CVB:/Paddle-Lite/build.lite.linux.x86.gcc#
+root@WINDOWS-R839CVB:/Paddle-Lite/build.lite.linux.x86.gcc#
+root@WINDOWS-R839CVB:/Paddle-Lite/build.lite.linux.x86.gcc#
+root@WINDOWS-R839CVB:/Paddle-Lite/build.lite.linux.x86.gcc# clear
+root@WINDOWS-R839CVB:/Paddle-Lite/build.lite.linux.x86.gcc# ./inference_lite_lib/demo/cxx/mobilenetv1_full/mobilenet_full_api ../mobilenet_v1
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I0820 01:00:36.246884 10653 paddle_api.cc:50] need to check fp16 valid:0
+is_opencl_backend_valid:0
+OpenCL is not valid on your device. Fallback to cpu.
+[I  8/20  1: 0:36.309 ...r/nnadapter/src/driver/lyf_npu/driver.cc:24 OpenDevice] open for lyf_npu.
+Get device:lyf_npu succ.
+I0820 01:00:36.309775 10653 cxx_api.cc:308] Load model from file.
+I0820 01:00:36.310660 10653 model_parser.cc:241] Loading topology data from ../mobilenet_v1/__model__
+I0820 01:00:36.671612 10653 model_parser.cc:221] Loading non-combined params data from ../mobilenet_v1
+I0820 01:00:36.671653 10653 model_parser.cc:269] 1. Model is successfully loaded!
+I0820 01:00:36.687845 10653 optimizer.cc:110] == Running pass: lite_quant_dequant_fuse_pass
+I0820 01:00:36.709054 10653 optimizer.cc:130] == Finished running: lite_quant_dequant_fuse_pass
+I0820 01:00:36.709111 10653 optimizer.cc:110] == Running pass: weight_quantization_preprocess_pass
+I0820 01:00:36.709887 10653 optimizer.cc:130] == Finished running: weight_quantization_preprocess_pass
+I0820 01:00:36.709925 10653 optimizer.cc:110] == Running pass: op_transformation_pass
+I0820 01:00:36.709964 10653 optimizer.cc:118]    - Skip op_transformation_pass because the target or kernel does not match.
+I0820 01:00:36.709988 10653 optimizer.cc:110] == Running pass: assign_value_calc_offline_pass
+I0820 01:00:36.710500 10653 optimizer.cc:130] == Finished running: assign_value_calc_offline_pass
+I0820 01:00:36.710528 10653 optimizer.cc:110] == Running pass: p_norm_fill_constant_max_div_fuse_pass
+I0820 01:00:36.711688 10653 optimizer.cc:130] == Finished running: p_norm_fill_constant_max_div_fuse_pass
+I0820 01:00:36.711721 10653 optimizer.cc:110] == Running pass: fill_constant_calc_offline_pass
+I0820 01:00:36.712209 10653 optimizer.cc:130] == Finished running: fill_constant_calc_offline_pass
+I0820 01:00:36.712234 10653 optimizer.cc:110] == Running pass: range_calc_offline_pass
+I0820 01:00:36.712682 10653 optimizer.cc:130] == Finished running: range_calc_offline_pass
+I0820 01:00:36.712707 10653 optimizer.cc:110] == Running pass: scale_calc_offline_pass
+W0820 01:00:36.713621 10653 scale_calc_offline_pass.cc:62] ScaleCalcOfflinePass does not support input that is not persistable
+I0820 01:00:36.713657 10653 optimizer.cc:130] == Finished running: scale_calc_offline_pass
+I0820 01:00:36.713685 10653 optimizer.cc:110] == Running pass: unsqueeze_calc_offline_pass
+I0820 01:00:36.714164 10653 optimizer.cc:130] == Finished running: unsqueeze_calc_offline_pass
+I0820 01:00:36.714190 10653 optimizer.cc:110] == Running pass: reshape_calc_offline_pass
+I0820 01:00:36.714637 10653 optimizer.cc:130] == Finished running: reshape_calc_offline_pass
+I0820 01:00:36.714660 10653 optimizer.cc:110] == Running pass: ssd_boxes_calc_offline_pass
+I0820 01:00:36.716434 10653 optimizer.cc:130] == Finished running: ssd_boxes_calc_offline_pass
+I0820 01:00:36.716459 10653 optimizer.cc:110] == Running pass: op_fusion_minimal_set_pass
+I0820 01:00:36.717645 10653 pattern_matcher.cc:108] detected 1 subgraph
+I0820 01:00:36.718855 10653 optimizer.cc:130] == Finished running: op_fusion_minimal_set_pass
+I0820 01:00:36.718884 10653 optimizer.cc:110] == Running pass: quantization_parameters_propagation_pass
+I0820 01:00:36.721122 10653 optimizer.cc:130] == Finished running: quantization_parameters_propagation_pass
+I0820 01:00:36.721149 10653 optimizer.cc:110] == Running pass: quantization_parameters_removal_pass
+I0820 01:00:36.721179 10653 optimizer.cc:130] == Finished running: quantization_parameters_removal_pass
+I0820 01:00:36.721205 10653 optimizer.cc:110] == Running pass: nnadapter_subgraph_pass
+subgraph clusters: 14
+digraph G {
+   node_6[label="batch_norm0" shape="box" style="filled" color="black" fillcolor="white"]
+   node_19[label="batch_norm1" shape="box" style="filled" color="black" fillcolor="white"]
+   node_136[label="batch_norm10" shape="box" style="filled" color="black" fillcolor="white"]
+   node_149[label="batch_norm11" shape="box" style="filled" color="black" fillcolor="white"]
+   node_162[label="batch_norm12" shape="box" style="filled" color="black" fillcolor="white"]
+   node_175[label="batch_norm13" shape="box" style="filled" color="black" fillcolor="white"]
+   node_188[label="batch_norm14" shape="box" style="filled" color="black" fillcolor="white"]
+   node_201[label="batch_norm15" shape="box" style="filled" color="black" fillcolor="white"]
+   node_214[label="batch_norm16" shape="box" style="filled" color="black" fillcolor="white"]
+   node_227[label="batch_norm17" shape="box" style="filled" color="black" fillcolor="white"]
+   node_240[label="batch_norm18" shape="box" style="filled" color="black" fillcolor="white"]
+   node_253[label="batch_norm19" shape="box" style="filled" color="black" fillcolor="white"]
+   node_32[label="batch_norm2" shape="box" style="filled" color="black" fillcolor="white"]
+   node_266[label="batch_norm20" shape="box" style="filled" color="black" fillcolor="white"]
+   node_279[label="batch_norm21" shape="box" style="filled" color="black" fillcolor="white"]
+   node_292[label="batch_norm22" shape="box" style="filled" color="black" fillcolor="white"]
+   node_305[label="batch_norm23" shape="box" style="filled" color="black" fillcolor="white"]
+   node_318[label="batch_norm24" shape="box" style="filled" color="black" fillcolor="white"]
+   node_331[label="batch_norm25" shape="box" style="filled" color="black" fillcolor="white"]
+   node_344[label="batch_norm26" shape="box" style="filled" color="black" fillcolor="white"]
+   node_45[label="batch_norm3" shape="box" style="filled" color="black" fillcolor="white"]
+   node_58[label="batch_norm4" shape="box" style="filled" color="black" fillcolor="white"]
+   node_71[label="batch_norm5" shape="box" style="filled" color="black" fillcolor="white"]
+   node_84[label="batch_norm6" shape="box" style="filled" color="black" fillcolor="white"]
+   node_97[label="batch_norm7" shape="box" style="filled" color="black" fillcolor="white"]
+   node_110[label="batch_norm8" shape="box" style="filled" color="black" fillcolor="white"]
+   node_123[label="batch_norm9" shape="box" style="filled" color="black" fillcolor="white"]
+   node_11[label="batch_norm_0.tmp_0"]
+   node_12[label="batch_norm_0.tmp_1"]
+   node_13[label="batch_norm_0.tmp_2"]
+   node_15[label="batch_norm_0.tmp_3"]
+   node_24[label="batch_norm_1.tmp_0"]
+   node_25[label="batch_norm_1.tmp_1"]
+   node_26[label="batch_norm_1.tmp_2"]
+   node_28[label="batch_norm_1.tmp_3"]
+   node_141[label="batch_norm_10.tmp_0"]
+   node_142[label="batch_norm_10.tmp_1"]
+   node_143[label="batch_norm_10.tmp_2"]
+   node_145[label="batch_norm_10.tmp_3"]
+   node_154[label="batch_norm_11.tmp_0"]
+   node_155[label="batch_norm_11.tmp_1"]
+   node_156[label="batch_norm_11.tmp_2"]
+   node_158[label="batch_norm_11.tmp_3"]
+   node_167[label="batch_norm_12.tmp_0"]
+   node_168[label="batch_norm_12.tmp_1"]
+   node_169[label="batch_norm_12.tmp_2"]
+   node_171[label="batch_norm_12.tmp_3"]
+   node_180[label="batch_norm_13.tmp_0"]
+   node_181[label="batch_norm_13.tmp_1"]
+   node_182[label="batch_norm_13.tmp_2"]
+   node_184[label="batch_norm_13.tmp_3"]
+   node_193[label="batch_norm_14.tmp_0"]
+   node_194[label="batch_norm_14.tmp_1"]
+   node_195[label="batch_norm_14.tmp_2"]
+   node_197[label="batch_norm_14.tmp_3"]
+   node_206[label="batch_norm_15.tmp_0"]
+   node_207[label="batch_norm_15.tmp_1"]
+   node_208[label="batch_norm_15.tmp_2"]
+   node_210[label="batch_norm_15.tmp_3"]
+   node_219[label="batch_norm_16.tmp_0"]
+   node_220[label="batch_norm_16.tmp_1"]
+   node_221[label="batch_norm_16.tmp_2"]
+   node_223[label="batch_norm_16.tmp_3"]
+   node_232[label="batch_norm_17.tmp_0"]
+   node_233[label="batch_norm_17.tmp_1"]
+   node_234[label="batch_norm_17.tmp_2"]
+   node_236[label="batch_norm_17.tmp_3"]
+   node_245[label="batch_norm_18.tmp_0"]
+   node_246[label="batch_norm_18.tmp_1"]
+   node_247[label="batch_norm_18.tmp_2"]
+   node_249[label="batch_norm_18.tmp_3"]
+   node_258[label="batch_norm_19.tmp_0"]
+   node_259[label="batch_norm_19.tmp_1"]
+   node_260[label="batch_norm_19.tmp_2"]
+   node_262[label="batch_norm_19.tmp_3"]
+   node_37[label="batch_norm_2.tmp_0"]
+   node_38[label="batch_norm_2.tmp_1"]
+   node_39[label="batch_norm_2.tmp_2"]
+   node_41[label="batch_norm_2.tmp_3"]
+   node_271[label="batch_norm_20.tmp_0"]
+   node_272[label="batch_norm_20.tmp_1"]
+   node_273[label="batch_norm_20.tmp_2"]
+   node_275[label="batch_norm_20.tmp_3"]
+   node_284[label="batch_norm_21.tmp_0"]
+   node_285[label="batch_norm_21.tmp_1"]
+   node_286[label="batch_norm_21.tmp_2"]
+   node_288[label="batch_norm_21.tmp_3"]
+   node_297[label="batch_norm_22.tmp_0"]
+   node_298[label="batch_norm_22.tmp_1"]
+   node_299[label="batch_norm_22.tmp_2"]
+   node_301[label="batch_norm_22.tmp_3"]
+   node_310[label="batch_norm_23.tmp_0"]
+   node_311[label="batch_norm_23.tmp_1"]
+   node_312[label="batch_norm_23.tmp_2"]
+   node_314[label="batch_norm_23.tmp_3"]
+   node_323[label="batch_norm_24.tmp_0"]
+   node_324[label="batch_norm_24.tmp_1"]
+   node_325[label="batch_norm_24.tmp_2"]
+   node_327[label="batch_norm_24.tmp_3"]
+   node_336[label="batch_norm_25.tmp_0"]
+   node_337[label="batch_norm_25.tmp_1"]
+   node_338[label="batch_norm_25.tmp_2"]
+   node_340[label="batch_norm_25.tmp_3"]
+   node_349[label="batch_norm_26.tmp_0"]
+   node_350[label="batch_norm_26.tmp_1"]
+   node_351[label="batch_norm_26.tmp_2"]
+   node_353[label="batch_norm_26.tmp_3"]
+   node_50[label="batch_norm_3.tmp_0"]
+   node_51[label="batch_norm_3.tmp_1"]
+   node_52[label="batch_norm_3.tmp_2"]
+   node_54[label="batch_norm_3.tmp_3"]
+   node_63[label="batch_norm_4.tmp_0"]
+   node_64[label="batch_norm_4.tmp_1"]
+   node_65[label="batch_norm_4.tmp_2"]
+   node_67[label="batch_norm_4.tmp_3"]
+   node_76[label="batch_norm_5.tmp_0"]
+   node_77[label="batch_norm_5.tmp_1"]
+   node_78[label="batch_norm_5.tmp_2"]
+   node_80[label="batch_norm_5.tmp_3"]
+   node_89[label="batch_norm_6.tmp_0"]
+   node_90[label="batch_norm_6.tmp_1"]
+   node_91[label="batch_norm_6.tmp_2"]
+   node_93[label="batch_norm_6.tmp_3"]
+   node_102[label="batch_norm_7.tmp_0"]
+   node_103[label="batch_norm_7.tmp_1"]
+   node_104[label="batch_norm_7.tmp_2"]
+   node_106[label="batch_norm_7.tmp_3"]
+   node_115[label="batch_norm_8.tmp_0"]
+   node_116[label="batch_norm_8.tmp_1"]
+   node_117[label="batch_norm_8.tmp_2"]
+   node_119[label="batch_norm_8.tmp_3"]
+   node_128[label="batch_norm_9.tmp_0"]
+   node_129[label="batch_norm_9.tmp_1"]
+   node_130[label="batch_norm_9.tmp_2"]
+   node_132[label="batch_norm_9.tmp_3"]
+   node_8[label="conv1_bn_mean"]
+   node_7[label="conv1_bn_offset"]
+   node_9[label="conv1_bn_scale"]
+   node_10[label="conv1_bn_variance"]
+   node_4[label="conv1_weights"]
+   node_21[label="conv2_1_dw_bn_mean"]
+   node_20[label="conv2_1_dw_bn_offset"]
+   node_22[label="conv2_1_dw_bn_scale"]
+   node_23[label="conv2_1_dw_bn_variance"]
+   node_17[label="conv2_1_dw_weights"]
+   node_34[label="conv2_1_sep_bn_mean"]
+   node_33[label="conv2_1_sep_bn_offset"]
+   node_35[label="conv2_1_sep_bn_scale"]
+   node_36[label="conv2_1_sep_bn_variance"]
+   node_30[label="conv2_1_sep_weights"]
+   node_47[label="conv2_2_dw_bn_mean"]
+   node_46[label="conv2_2_dw_bn_offset"]
+   node_48[label="conv2_2_dw_bn_scale"]
+   node_49[label="conv2_2_dw_bn_variance"]
+   node_43[label="conv2_2_dw_weights"]
+   node_60[label="conv2_2_sep_bn_mean"]
+   node_59[label="conv2_2_sep_bn_offset"]
+   node_61[label="conv2_2_sep_bn_scale"]
+   node_62[label="conv2_2_sep_bn_variance"]
+   node_56[label="conv2_2_sep_weights"]
+   node_3[label="conv2d0_subgraph_0" shape="box" style="filled" color="black" fillcolor="red"]
+   node_263[label="conv2d10_subgraph_10" shape="box" style="filled" color="black" fillcolor="azure"]
+   node_289[label="conv2d11_subgraph_11" shape="box" style="filled" color="black" fillcolor="bisque4"]
+   node_315[label="conv2d12_subgraph_12" shape="box" style="filled" color="black" fillcolor="blue2"]
+   node_341[label="conv2d13_subgraph_13" shape="box" style="filled" color="black" fillcolor="brown1"]
+   node_29[label="conv2d1_subgraph_1" shape="box" style="filled" color="black" fillcolor="green"]
+   node_55[label="conv2d2_subgraph_2" shape="box" style="filled" color="black" fillcolor="cyan"]
+   node_81[label="conv2d3_subgraph_3" shape="box" style="filled" color="black" fillcolor="bisque3"]
+   node_107[label="conv2d4_subgraph_4" shape="box" style="filled" color="black" fillcolor="coral"]
+   node_133[label="conv2d5_subgraph_5" shape="box" style="filled" color="black" fillcolor="darkseagreen1"]
+   node_159[label="conv2d6_subgraph_6" shape="box" style="filled" color="black" fillcolor="goldenrod1"]
+   node_185[label="conv2d7_subgraph_7" shape="box" style="filled" color="black" fillcolor="darkorchid"]
+   node_211[label="conv2d8_subgraph_8" shape="box" style="filled" color="black" fillcolor="antiquewhite"]
+   node_237[label="conv2d9_subgraph_9" shape="box" style="filled" color="black" fillcolor="aquamarine"]
+   node_5[label="conv2d_0.tmp_0"]
+   node_31[label="conv2d_1.tmp_0"]
+   node_265[label="conv2d_10.tmp_0"]
+   node_291[label="conv2d_11.tmp_0"]
+   node_317[label="conv2d_12.tmp_0"]
+   node_343[label="conv2d_13.tmp_0"]
+   node_57[label="conv2d_2.tmp_0"]
+   node_83[label="conv2d_3.tmp_0"]
+   node_109[label="conv2d_4.tmp_0"]
+   node_135[label="conv2d_5.tmp_0"]
+   node_161[label="conv2d_6.tmp_0"]
+   node_187[label="conv2d_7.tmp_0"]
+   node_213[label="conv2d_8.tmp_0"]
+   node_239[label="conv2d_9.tmp_0"]
+   node_73[label="conv3_1_dw_bn_mean"]
+   node_72[label="conv3_1_dw_bn_offset"]
+   node_74[label="conv3_1_dw_bn_scale"]
+   node_75[label="conv3_1_dw_bn_variance"]
+   node_69[label="conv3_1_dw_weights"]
+   node_86[label="conv3_1_sep_bn_mean"]
+   node_85[label="conv3_1_sep_bn_offset"]
+   node_87[label="conv3_1_sep_bn_scale"]
+   node_88[label="conv3_1_sep_bn_variance"]
+   node_82[label="conv3_1_sep_weights"]
+   node_99[label="conv3_2_dw_bn_mean"]
+   node_98[label="conv3_2_dw_bn_offset"]
+   node_100[label="conv3_2_dw_bn_scale"]
+   node_101[label="conv3_2_dw_bn_variance"]
+   node_95[label="conv3_2_dw_weights"]
+   node_112[label="conv3_2_sep_bn_mean"]
+   node_111[label="conv3_2_sep_bn_offset"]
+   node_113[label="conv3_2_sep_bn_scale"]
+   node_114[label="conv3_2_sep_bn_variance"]
+   node_108[label="conv3_2_sep_weights"]
+   node_125[label="conv4_1_dw_bn_mean"]
+   node_124[label="conv4_1_dw_bn_offset"]
+   node_126[label="conv4_1_dw_bn_scale"]
+   node_127[label="conv4_1_dw_bn_variance"]
+   node_121[label="conv4_1_dw_weights"]
+   node_138[label="conv4_1_sep_bn_mean"]
+   node_137[label="conv4_1_sep_bn_offset"]
+   node_139[label="conv4_1_sep_bn_scale"]
+   node_140[label="conv4_1_sep_bn_variance"]
+   node_134[label="conv4_1_sep_weights"]
+   node_151[label="conv4_2_dw_bn_mean"]
+   node_150[label="conv4_2_dw_bn_offset"]
+   node_152[label="conv4_2_dw_bn_scale"]
+   node_153[label="conv4_2_dw_bn_variance"]
+   node_147[label="conv4_2_dw_weights"]
+   node_164[label="conv4_2_sep_bn_mean"]
+   node_163[label="conv4_2_sep_bn_offset"]
+   node_165[label="conv4_2_sep_bn_scale"]
+   node_166[label="conv4_2_sep_bn_variance"]
+   node_160[label="conv4_2_sep_weights"]
+   node_177[label="conv5_1_dw_bn_mean"]
+   node_176[label="conv5_1_dw_bn_offset"]
+   node_178[label="conv5_1_dw_bn_scale"]
+   node_179[label="conv5_1_dw_bn_variance"]
+   node_173[label="conv5_1_dw_weights"]
+   node_190[label="conv5_1_sep_bn_mean"]
+   node_189[label="conv5_1_sep_bn_offset"]
+   node_191[label="conv5_1_sep_bn_scale"]
+   node_192[label="conv5_1_sep_bn_variance"]
+   node_186[label="conv5_1_sep_weights"]
+   node_203[label="conv5_2_dw_bn_mean"]
+   node_202[label="conv5_2_dw_bn_offset"]
+   node_204[label="conv5_2_dw_bn_scale"]
+   node_205[label="conv5_2_dw_bn_variance"]
+   node_199[label="conv5_2_dw_weights"]
+   node_216[label="conv5_2_sep_bn_mean"]
+   node_215[label="conv5_2_sep_bn_offset"]
+   node_217[label="conv5_2_sep_bn_scale"]
+   node_218[label="conv5_2_sep_bn_variance"]
+   node_212[label="conv5_2_sep_weights"]
+   node_229[label="conv5_3_dw_bn_mean"]
+   node_228[label="conv5_3_dw_bn_offset"]
+   node_230[label="conv5_3_dw_bn_scale"]
+   node_231[label="conv5_3_dw_bn_variance"]
+   node_225[label="conv5_3_dw_weights"]
+   node_242[label="conv5_3_sep_bn_mean"]
+   node_241[label="conv5_3_sep_bn_offset"]
+   node_243[label="conv5_3_sep_bn_scale"]
+   node_244[label="conv5_3_sep_bn_variance"]
+   node_238[label="conv5_3_sep_weights"]
+   node_255[label="conv5_4_dw_bn_mean"]
+   node_254[label="conv5_4_dw_bn_offset"]
+   node_256[label="conv5_4_dw_bn_scale"]
+   node_257[label="conv5_4_dw_bn_variance"]
+   node_251[label="conv5_4_dw_weights"]
+   node_268[label="conv5_4_sep_bn_mean"]
+   node_267[label="conv5_4_sep_bn_offset"]
+   node_269[label="conv5_4_sep_bn_scale"]
+   node_270[label="conv5_4_sep_bn_variance"]
+   node_264[label="conv5_4_sep_weights"]
+   node_281[label="conv5_5_dw_bn_mean"]
+   node_280[label="conv5_5_dw_bn_offset"]
+   node_282[label="conv5_5_dw_bn_scale"]
+   node_283[label="conv5_5_dw_bn_variance"]
+   node_277[label="conv5_5_dw_weights"]
+   node_294[label="conv5_5_sep_bn_mean"]
+   node_293[label="conv5_5_sep_bn_offset"]
+   node_295[label="conv5_5_sep_bn_scale"]
+   node_296[label="conv5_5_sep_bn_variance"]
+   node_290[label="conv5_5_sep_weights"]
+   node_307[label="conv5_6_dw_bn_mean"]
+   node_306[label="conv5_6_dw_bn_offset"]
+   node_308[label="conv5_6_dw_bn_scale"]
+   node_309[label="conv5_6_dw_bn_variance"]
+   node_303[label="conv5_6_dw_weights"]
+   node_320[label="conv5_6_sep_bn_mean"]
+   node_319[label="conv5_6_sep_bn_offset"]
+   node_321[label="conv5_6_sep_bn_scale"]
+   node_322[label="conv5_6_sep_bn_variance"]
+   node_316[label="conv5_6_sep_weights"]
+   node_333[label="conv6_dw_bn_mean"]
+   node_332[label="conv6_dw_bn_offset"]
+   node_334[label="conv6_dw_bn_scale"]
+   node_335[label="conv6_dw_bn_variance"]
+   node_329[label="conv6_dw_weights"]
+   node_346[label="conv6_sep_bn_mean"]
+   node_345[label="conv6_sep_bn_offset"]
+   node_347[label="conv6_sep_bn_scale"]
+   node_348[label="conv6_sep_bn_variance"]
+   node_342[label="conv6_sep_weights"]
+   node_16[label="depthwise_conv2d0" shape="box" style="filled" color="black" fillcolor="white"]
+   node_42[label="depthwise_conv2d1" shape="box" style="filled" color="black" fillcolor="white"]
+   node_276[label="depthwise_conv2d10" shape="box" style="filled" color="black" fillcolor="white"]
+   node_302[label="depthwise_conv2d11" shape="box" style="filled" color="black" fillcolor="white"]
+   node_328[label="depthwise_conv2d12" shape="box" style="filled" color="black" fillcolor="white"]
+   node_68[label="depthwise_conv2d2" shape="box" style="filled" color="black" fillcolor="white"]
+   node_94[label="depthwise_conv2d3" shape="box" style="filled" color="black" fillcolor="white"]
+   node_120[label="depthwise_conv2d4" shape="box" style="filled" color="black" fillcolor="white"]
+   node_146[label="depthwise_conv2d5" shape="box" style="filled" color="black" fillcolor="white"]
+   node_172[label="depthwise_conv2d6" shape="box" style="filled" color="black" fillcolor="white"]
+   node_198[label="depthwise_conv2d7" shape="box" style="filled" color="black" fillcolor="white"]
+   node_224[label="depthwise_conv2d8" shape="box" style="filled" color="black" fillcolor="white"]
+   node_250[label="depthwise_conv2d9" shape="box" style="filled" color="black" fillcolor="white"]
+   node_18[label="depthwise_conv2d_0.tmp_0"]
+   node_44[label="depthwise_conv2d_1.tmp_0"]
+   node_278[label="depthwise_conv2d_10.tmp_0"]
+   node_304[label="depthwise_conv2d_11.tmp_0"]
+   node_330[label="depthwise_conv2d_12.tmp_0"]
+   node_70[label="depthwise_conv2d_2.tmp_0"]
+   node_96[label="depthwise_conv2d_3.tmp_0"]
+   node_122[label="depthwise_conv2d_4.tmp_0"]
+   node_148[label="depthwise_conv2d_5.tmp_0"]
+   node_174[label="depthwise_conv2d_6.tmp_0"]
+   node_200[label="depthwise_conv2d_7.tmp_0"]
+   node_226[label="depthwise_conv2d_8.tmp_0"]
+   node_252[label="depthwise_conv2d_9.tmp_0"]
+   node_359[label="elementwise_add0" shape="box" style="filled" color="black" fillcolor="white"]
+   node_360[label="fc7_offset"]
+   node_357[label="fc7_weights"]
+   node_358[label="fc_0.tmp_0"]
+   node_361[label="fc_0.tmp_1"]
+   node_1[label="feed"]
+   node_0[label="feed0" shape="box" style="filled" color="black" fillcolor="white"]
+   node_365[label="fetch"]
+   node_364[label="fetch0" shape="box" style="filled" color="black" fillcolor="white"]
+   node_2[label="image"]
+   node_356[label="mul0" shape="box" style="filled" color="black" fillcolor="white"]
+   node_354[label="pool2d0" shape="box" style="filled" color="black" fillcolor="white"]
+   node_355[label="pool2d_0.tmp_0"]
+   node_14[label="relu0" shape="box" style="filled" color="black" fillcolor="white"]
+   node_27[label="relu1" shape="box" style="filled" color="black" fillcolor="white"]
+   node_144[label="relu10" shape="box" style="filled" color="black" fillcolor="white"]
+   node_157[label="relu11" shape="box" style="filled" color="black" fillcolor="white"]
+   node_170[label="relu12" shape="box" style="filled" color="black" fillcolor="white"]
+   node_183[label="relu13" shape="box" style="filled" color="black" fillcolor="white"]
+   node_196[label="relu14" shape="box" style="filled" color="black" fillcolor="white"]
+   node_209[label="relu15" shape="box" style="filled" color="black" fillcolor="white"]
+   node_222[label="relu16" shape="box" style="filled" color="black" fillcolor="white"]
+   node_235[label="relu17" shape="box" style="filled" color="black" fillcolor="white"]
+   node_248[label="relu18" shape="box" style="filled" color="black" fillcolor="white"]
+   node_261[label="relu19" shape="box" style="filled" color="black" fillcolor="white"]
+   node_40[label="relu2" shape="box" style="filled" color="black" fillcolor="white"]
+   node_274[label="relu20" shape="box" style="filled" color="black" fillcolor="white"]
+   node_287[label="relu21" shape="box" style="filled" color="black" fillcolor="white"]
+   node_300[label="relu22" shape="box" style="filled" color="black" fillcolor="white"]
+   node_313[label="relu23" shape="box" style="filled" color="black" fillcolor="white"]
+   node_326[label="relu24" shape="box" style="filled" color="black" fillcolor="white"]
+   node_339[label="relu25" shape="box" style="filled" color="black" fillcolor="white"]
+   node_352[label="relu26" shape="box" style="filled" color="black" fillcolor="white"]
+   node_53[label="relu3" shape="box" style="filled" color="black" fillcolor="white"]
+   node_66[label="relu4" shape="box" style="filled" color="black" fillcolor="white"]
+   node_79[label="relu5" shape="box" style="filled" color="black" fillcolor="white"]
+   node_92[label="relu6" shape="box" style="filled" color="black" fillcolor="white"]
+   node_105[label="relu7" shape="box" style="filled" color="black" fillcolor="white"]
+   node_118[label="relu8" shape="box" style="filled" color="black" fillcolor="white"]
+   node_131[label="relu9" shape="box" style="filled" color="black" fillcolor="white"]
+   node_363[label="save_infer_model/scale_0"]
+   node_362[label="softmax0" shape="box" style="filled" color="black" fillcolor="white"]
+   node_1->node_0
+   node_0->node_2
+   node_4->node_3
+   node_2->node_3
+   node_3->node_5
+   node_7->node_6
+   node_8->node_6
+   node_9->node_6
+   node_10->node_6
+   node_5->node_6
+   node_6->node_8
+   node_6->node_11
+   node_6->node_12
+   node_6->node_10
+   node_6->node_13
+   node_13->node_14
+   node_14->node_15
+   node_17->node_16
+   node_15->node_16
+   node_16->node_18
+   node_20->node_19
+   node_21->node_19
+   node_22->node_19
+   node_23->node_19
+   node_18->node_19
+   node_19->node_21
+   node_19->node_24
+   node_19->node_25
+   node_19->node_23
+   node_19->node_26
+   node_26->node_27
+   node_27->node_28
+   node_30->node_29
+   node_28->node_29
+   node_29->node_31
+   node_33->node_32
+   node_34->node_32
+   node_35->node_32
+   node_36->node_32
+   node_31->node_32
+   node_32->node_34
+   node_32->node_37
+   node_32->node_38
+   node_32->node_36
+   node_32->node_39
+   node_39->node_40
+   node_40->node_41
+   node_43->node_42
+   node_41->node_42
+   node_42->node_44
+   node_46->node_45
+   node_47->node_45
+   node_48->node_45
+   node_49->node_45
+   node_44->node_45
+   node_45->node_47
+   node_45->node_50
+   node_45->node_51
+   node_45->node_49
+   node_45->node_52
+   node_52->node_53
+   node_53->node_54
+   node_56->node_55
+   node_54->node_55
+   node_55->node_57
+   node_59->node_58
+   node_60->node_58
+   node_61->node_58
+   node_62->node_58
+   node_57->node_58
+   node_58->node_60
+   node_58->node_63
+   node_58->node_64
+   node_58->node_62
+   node_58->node_65
+   node_65->node_66
+   node_66->node_67
+   node_69->node_68
+   node_67->node_68
+   node_68->node_70
+   node_72->node_71
+   node_73->node_71
+   node_74->node_71
+   node_75->node_71
+   node_70->node_71
+   node_71->node_73
+   node_71->node_76
+   node_71->node_77
+   node_71->node_75
+   node_71->node_78
+   node_78->node_79
+   node_79->node_80
+   node_82->node_81
+   node_80->node_81
+   node_81->node_83
+   node_85->node_84
+   node_86->node_84
+   node_87->node_84
+   node_88->node_84
+   node_83->node_84
+   node_84->node_86
+   node_84->node_89
+   node_84->node_90
+   node_84->node_88
+   node_84->node_91
+   node_91->node_92
+   node_92->node_93
+   node_95->node_94
+   node_93->node_94
+   node_94->node_96
+   node_98->node_97
+   node_99->node_97
+   node_100->node_97
+   node_101->node_97
+   node_96->node_97
+   node_97->node_99
+   node_97->node_102
+   node_97->node_103
+   node_97->node_101
+   node_97->node_104
+   node_104->node_105
+   node_105->node_106
+   node_108->node_107
+   node_106->node_107
+   node_107->node_109
+   node_111->node_110
+   node_112->node_110
+   node_113->node_110
+   node_114->node_110
+   node_109->node_110
+   node_110->node_112
+   node_110->node_115
+   node_110->node_116
+   node_110->node_114
+   node_110->node_117
+   node_117->node_118
+   node_118->node_119
+   node_121->node_120
+   node_119->node_120
+   node_120->node_122
+   node_124->node_123
+   node_125->node_123
+   node_126->node_123
+   node_127->node_123
+   node_122->node_123
+   node_123->node_125
+   node_123->node_128
+   node_123->node_129
+   node_123->node_127
+   node_123->node_130
+   node_130->node_131
+   node_131->node_132
+   node_134->node_133
+   node_132->node_133
+   node_133->node_135
+   node_137->node_136
+   node_138->node_136
+   node_139->node_136
+   node_140->node_136
+   node_135->node_136
+   node_136->node_138
+   node_136->node_141
+   node_136->node_142
+   node_136->node_140
+   node_136->node_143
+   node_143->node_144
+   node_144->node_145
+   node_147->node_146
+   node_145->node_146
+   node_146->node_148
+   node_150->node_149
+   node_151->node_149
+   node_152->node_149
+   node_153->node_149
+   node_148->node_149
+   node_149->node_151
+   node_149->node_154
+   node_149->node_155
+   node_149->node_153
+   node_149->node_156
+   node_156->node_157
+   node_157->node_158
+   node_160->node_159
+   node_158->node_159
+   node_159->node_161
+   node_163->node_162
+   node_164->node_162
+   node_165->node_162
+   node_166->node_162
+   node_161->node_162
+   node_162->node_164
+   node_162->node_167
+   node_162->node_168
+   node_162->node_166
+   node_162->node_169
+   node_169->node_170
+   node_170->node_171
+   node_173->node_172
+   node_171->node_172
+   node_172->node_174
+   node_176->node_175
+   node_177->node_175
+   node_178->node_175
+   node_179->node_175
+   node_174->node_175
+   node_175->node_177
+   node_175->node_180
+   node_175->node_181
+   node_175->node_179
+   node_175->node_182
+   node_182->node_183
+   node_183->node_184
+   node_186->node_185
+   node_184->node_185
+   node_185->node_187
+   node_189->node_188
+   node_190->node_188
+   node_191->node_188
+   node_192->node_188
+   node_187->node_188
+   node_188->node_190
+   node_188->node_193
+   node_188->node_194
+   node_188->node_192
+   node_188->node_195
+   node_195->node_196
+   node_196->node_197
+   node_199->node_198
+   node_197->node_198
+   node_198->node_200
+   node_202->node_201
+   node_203->node_201
+   node_204->node_201
+   node_205->node_201
+   node_200->node_201
+   node_201->node_203
+   node_201->node_206
+   node_201->node_207
+   node_201->node_205
+   node_201->node_208
+   node_208->node_209
+   node_209->node_210
+   node_212->node_211
+   node_210->node_211
+   node_211->node_213
+   node_215->node_214
+   node_216->node_214
+   node_217->node_214
+   node_218->node_214
+   node_213->node_214
+   node_214->node_216
+   node_214->node_219
+   node_214->node_220
+   node_214->node_218
+   node_214->node_221
+   node_221->node_222
+   node_222->node_223
+   node_225->node_224
+   node_223->node_224
+   node_224->node_226
+   node_228->node_227
+   node_229->node_227
+   node_230->node_227
+   node_231->node_227
+   node_226->node_227
+   node_227->node_229
+   node_227->node_232
+   node_227->node_233
+   node_227->node_231
+   node_227->node_234
+   node_234->node_235
+   node_235->node_236
+   node_238->node_237
+   node_236->node_237
+   node_237->node_239
+   node_241->node_240
+   node_242->node_240
+   node_243->node_240
+   node_244->node_240
+   node_239->node_240
+   node_240->node_242
+   node_240->node_245
+   node_240->node_246
+   node_240->node_244
+   node_240->node_247
+   node_247->node_248
+   node_248->node_249
+   node_251->node_250
+   node_249->node_250
+   node_250->node_252
+   node_254->node_253
+   node_255->node_253
+   node_256->node_253
+   node_257->node_253
+   node_252->node_253
+   node_253->node_255
+   node_253->node_258
+   node_253->node_259
+   node_253->node_257
+   node_253->node_260
+   node_260->node_261
+   node_261->node_262
+   node_264->node_263
+   node_262->node_263
+   node_263->node_265
+   node_267->node_266
+   node_268->node_266
+   node_269->node_266
+   node_270->node_266
+   node_265->node_266
+   node_266->node_268
+   node_266->node_271
+   node_266->node_272
+   node_266->node_270
+   node_266->node_273
+   node_273->node_274
+   node_274->node_275
+   node_277->node_276
+   node_275->node_276
+   node_276->node_278
+   node_280->node_279
+   node_281->node_279
+   node_282->node_279
+   node_283->node_279
+   node_278->node_279
+   node_279->node_281
+   node_279->node_284
+   node_279->node_285
+   node_279->node_283
+   node_279->node_286
+   node_286->node_287
+   node_287->node_288
+   node_290->node_289
+   node_288->node_289
+   node_289->node_291
+   node_293->node_292
+   node_294->node_292
+   node_295->node_292
+   node_296->node_292
+   node_291->node_292
+   node_292->node_294
+   node_292->node_297
+   node_292->node_298
+   node_292->node_296
+   node_292->node_299
+   node_299->node_300
+   node_300->node_301
+   node_303->node_302
+   node_301->node_302
+   node_302->node_304
+   node_306->node_305
+   node_307->node_305
+   node_308->node_305
+   node_309->node_305
+   node_304->node_305
+   node_305->node_307
+   node_305->node_310
+   node_305->node_311
+   node_305->node_309
+   node_305->node_312
+   node_312->node_313
+   node_313->node_314
+   node_316->node_315
+   node_314->node_315
+   node_315->node_317
+   node_319->node_318
+   node_320->node_318
+   node_321->node_318
+   node_322->node_318
+   node_317->node_318
+   node_318->node_320
+   node_318->node_323
+   node_318->node_324
+   node_318->node_322
+   node_318->node_325
+   node_325->node_326
+   node_326->node_327
+   node_329->node_328
+   node_327->node_328
+   node_328->node_330
+   node_332->node_331
+   node_333->node_331
+   node_334->node_331
+   node_335->node_331
+   node_330->node_331
+   node_331->node_333
+   node_331->node_336
+   node_331->node_337
+   node_331->node_335
+   node_331->node_338
+   node_338->node_339
+   node_339->node_340
+   node_342->node_341
+   node_340->node_341
+   node_341->node_343
+   node_345->node_344
+   node_346->node_344
+   node_347->node_344
+   node_348->node_344
+   node_343->node_344
+   node_344->node_346
+   node_344->node_349
+   node_344->node_350
+   node_344->node_348
+   node_344->node_351
+   node_351->node_352
+   node_352->node_353
+   node_353->node_354
+   node_354->node_355
+   node_355->node_356
+   node_357->node_356
+   node_356->node_358
+   node_358->node_359
+   node_360->node_359
+   node_359->node_361
+   node_361->node_362
+   node_362->node_363
+   node_363->node_364
+   node_364->node_365
+} // end G
+subgraph operators:
+feed:feed:image
+conv2d:conv1_weights,image:conv2d_0.tmp_0
+batch_norm:conv1_bn_offset,conv1_bn_mean,conv1_bn_scale,conv1_bn_variance,conv2d_0.tmp_0:conv1_bn_mean,batch_norm_0.tmp_0,batch_norm_0.tmp_1,conv1_bn_variance,batch_norm_0.tmp_2
+relu:batch_norm_0.tmp_2:batch_norm_0.tmp_3
+depthwise_conv2d:conv2_1_dw_weights,batch_norm_0.tmp_3:depthwise_conv2d_0.tmp_0
+batch_norm:conv2_1_dw_bn_offset,conv2_1_dw_bn_mean,conv2_1_dw_bn_scale,conv2_1_dw_bn_variance,depthwise_conv2d_0.tmp_0:conv2_1_dw_bn_mean,batch_norm_1.tmp_0,batch_norm_1.tmp_1,conv2_1_dw_bn_variance,batch_norm_1.tmp_2
+relu:batch_norm_1.tmp_2:batch_norm_1.tmp_3
+conv2d:conv2_1_sep_weights,batch_norm_1.tmp_3:conv2d_1.tmp_0
+batch_norm:conv2_1_sep_bn_offset,conv2_1_sep_bn_mean,conv2_1_sep_bn_scale,conv2_1_sep_bn_variance,conv2d_1.tmp_0:conv2_1_sep_bn_mean,batch_norm_2.tmp_0,batch_norm_2.tmp_1,conv2_1_sep_bn_variance,batch_norm_2.tmp_2
+relu:batch_norm_2.tmp_2:batch_norm_2.tmp_3
+depthwise_conv2d:conv2_2_dw_weights,batch_norm_2.tmp_3:depthwise_conv2d_1.tmp_0
+batch_norm:conv2_2_dw_bn_offset,conv2_2_dw_bn_mean,conv2_2_dw_bn_scale,conv2_2_dw_bn_variance,depthwise_conv2d_1.tmp_0:conv2_2_dw_bn_mean,batch_norm_3.tmp_0,batch_norm_3.tmp_1,conv2_2_dw_bn_variance,batch_norm_3.tmp_2
+relu:batch_norm_3.tmp_2:batch_norm_3.tmp_3
+conv2d:conv2_2_sep_weights,batch_norm_3.tmp_3:conv2d_2.tmp_0
+batch_norm:conv2_2_sep_bn_offset,conv2_2_sep_bn_mean,conv2_2_sep_bn_scale,conv2_2_sep_bn_variance,conv2d_2.tmp_0:conv2_2_sep_bn_mean,batch_norm_4.tmp_0,batch_norm_4.tmp_1,conv2_2_sep_bn_variance,batch_norm_4.tmp_2
+relu:batch_norm_4.tmp_2:batch_norm_4.tmp_3
+depthwise_conv2d:conv3_1_dw_weights,batch_norm_4.tmp_3:depthwise_conv2d_2.tmp_0
+batch_norm:conv3_1_dw_bn_offset,conv3_1_dw_bn_mean,conv3_1_dw_bn_scale,conv3_1_dw_bn_variance,depthwise_conv2d_2.tmp_0:conv3_1_dw_bn_mean,batch_norm_5.tmp_0,batch_norm_5.tmp_1,conv3_1_dw_bn_variance,batch_norm_5.tmp_2
+relu:batch_norm_5.tmp_2:batch_norm_5.tmp_3
+conv2d:conv3_1_sep_weights,batch_norm_5.tmp_3:conv2d_3.tmp_0
+batch_norm:conv3_1_sep_bn_offset,conv3_1_sep_bn_mean,conv3_1_sep_bn_scale,conv3_1_sep_bn_variance,conv2d_3.tmp_0:conv3_1_sep_bn_mean,batch_norm_6.tmp_0,batch_norm_6.tmp_1,conv3_1_sep_bn_variance,batch_norm_6.tmp_2
+relu:batch_norm_6.tmp_2:batch_norm_6.tmp_3
+depthwise_conv2d:conv3_2_dw_weights,batch_norm_6.tmp_3:depthwise_conv2d_3.tmp_0
+batch_norm:conv3_2_dw_bn_offset,conv3_2_dw_bn_mean,conv3_2_dw_bn_scale,conv3_2_dw_bn_variance,depthwise_conv2d_3.tmp_0:conv3_2_dw_bn_mean,batch_norm_7.tmp_0,batch_norm_7.tmp_1,conv3_2_dw_bn_variance,batch_norm_7.tmp_2
+relu:batch_norm_7.tmp_2:batch_norm_7.tmp_3
+conv2d:conv3_2_sep_weights,batch_norm_7.tmp_3:conv2d_4.tmp_0
+batch_norm:conv3_2_sep_bn_offset,conv3_2_sep_bn_mean,conv3_2_sep_bn_scale,conv3_2_sep_bn_variance,conv2d_4.tmp_0:conv3_2_sep_bn_mean,batch_norm_8.tmp_0,batch_norm_8.tmp_1,conv3_2_sep_bn_variance,batch_norm_8.tmp_2
+relu:batch_norm_8.tmp_2:batch_norm_8.tmp_3
+depthwise_conv2d:conv4_1_dw_weights,batch_norm_8.tmp_3:depthwise_conv2d_4.tmp_0
+batch_norm:conv4_1_dw_bn_offset,conv4_1_dw_bn_mean,conv4_1_dw_bn_scale,conv4_1_dw_bn_variance,depthwise_conv2d_4.tmp_0:conv4_1_dw_bn_mean,batch_norm_9.tmp_0,batch_norm_9.tmp_1,conv4_1_dw_bn_variance,batch_norm_9.tmp_2
+relu:batch_norm_9.tmp_2:batch_norm_9.tmp_3
+conv2d:conv4_1_sep_weights,batch_norm_9.tmp_3:conv2d_5.tmp_0
+batch_norm:conv4_1_sep_bn_offset,conv4_1_sep_bn_mean,conv4_1_sep_bn_scale,conv4_1_sep_bn_variance,conv2d_5.tmp_0:conv4_1_sep_bn_mean,batch_norm_10.tmp_0,batch_norm_10.tmp_1,conv4_1_sep_bn_variance,batch_norm_10.tmp_2
+relu:batch_norm_10.tmp_2:batch_norm_10.tmp_3
+depthwise_conv2d:conv4_2_dw_weights,batch_norm_10.tmp_3:depthwise_conv2d_5.tmp_0
+batch_norm:conv4_2_dw_bn_offset,conv4_2_dw_bn_mean,conv4_2_dw_bn_scale,conv4_2_dw_bn_variance,depthwise_conv2d_5.tmp_0:conv4_2_dw_bn_mean,batch_norm_11.tmp_0,batch_norm_11.tmp_1,conv4_2_dw_bn_variance,batch_norm_11.tmp_2
+relu:batch_norm_11.tmp_2:batch_norm_11.tmp_3
+conv2d:conv4_2_sep_weights,batch_norm_11.tmp_3:conv2d_6.tmp_0
+batch_norm:conv4_2_sep_bn_offset,conv4_2_sep_bn_mean,conv4_2_sep_bn_scale,conv4_2_sep_bn_variance,conv2d_6.tmp_0:conv4_2_sep_bn_mean,batch_norm_12.tmp_0,batch_norm_12.tmp_1,conv4_2_sep_bn_variance,batch_norm_12.tmp_2
+relu:batch_norm_12.tmp_2:batch_norm_12.tmp_3
+depthwise_conv2d:conv5_1_dw_weights,batch_norm_12.tmp_3:depthwise_conv2d_6.tmp_0
+batch_norm:conv5_1_dw_bn_offset,conv5_1_dw_bn_mean,conv5_1_dw_bn_scale,conv5_1_dw_bn_variance,depthwise_conv2d_6.tmp_0:conv5_1_dw_bn_mean,batch_norm_13.tmp_0,batch_norm_13.tmp_1,conv5_1_dw_bn_variance,batch_norm_13.tmp_2
+relu:batch_norm_13.tmp_2:batch_norm_13.tmp_3
+conv2d:conv5_1_sep_weights,batch_norm_13.tmp_3:conv2d_7.tmp_0
+batch_norm:conv5_1_sep_bn_offset,conv5_1_sep_bn_mean,conv5_1_sep_bn_scale,conv5_1_sep_bn_variance,conv2d_7.tmp_0:conv5_1_sep_bn_mean,batch_norm_14.tmp_0,batch_norm_14.tmp_1,conv5_1_sep_bn_variance,batch_norm_14.tmp_2
+relu:batch_norm_14.tmp_2:batch_norm_14.tmp_3
+depthwise_conv2d:conv5_2_dw_weights,batch_norm_14.tmp_3:depthwise_conv2d_7.tmp_0
+batch_norm:conv5_2_dw_bn_offset,conv5_2_dw_bn_mean,conv5_2_dw_bn_scale,conv5_2_dw_bn_variance,depthwise_conv2d_7.tmp_0:conv5_2_dw_bn_mean,batch_norm_15.tmp_0,batch_norm_15.tmp_1,conv5_2_dw_bn_variance,batch_norm_15.tmp_2
+relu:batch_norm_15.tmp_2:batch_norm_15.tmp_3
+conv2d:conv5_2_sep_weights,batch_norm_15.tmp_3:conv2d_8.tmp_0
+batch_norm:conv5_2_sep_bn_offset,conv5_2_sep_bn_mean,conv5_2_sep_bn_scale,conv5_2_sep_bn_variance,conv2d_8.tmp_0:conv5_2_sep_bn_mean,batch_norm_16.tmp_0,batch_norm_16.tmp_1,conv5_2_sep_bn_variance,batch_norm_16.tmp_2
+relu:batch_norm_16.tmp_2:batch_norm_16.tmp_3
+depthwise_conv2d:conv5_3_dw_weights,batch_norm_16.tmp_3:depthwise_conv2d_8.tmp_0
+batch_norm:conv5_3_dw_bn_offset,conv5_3_dw_bn_mean,conv5_3_dw_bn_scale,conv5_3_dw_bn_variance,depthwise_conv2d_8.tmp_0:conv5_3_dw_bn_mean,batch_norm_17.tmp_0,batch_norm_17.tmp_1,conv5_3_dw_bn_variance,batch_norm_17.tmp_2
+relu:batch_norm_17.tmp_2:batch_norm_17.tmp_3
+conv2d:conv5_3_sep_weights,batch_norm_17.tmp_3:conv2d_9.tmp_0
+batch_norm:conv5_3_sep_bn_offset,conv5_3_sep_bn_mean,conv5_3_sep_bn_scale,conv5_3_sep_bn_variance,conv2d_9.tmp_0:conv5_3_sep_bn_mean,batch_norm_18.tmp_0,batch_norm_18.tmp_1,conv5_3_sep_bn_variance,batch_norm_18.tmp_2
+relu:batch_norm_18.tmp_2:batch_norm_18.tmp_3
+depthwise_conv2d:conv5_4_dw_weights,batch_norm_18.tmp_3:depthwise_conv2d_9.tmp_0
+batch_norm:conv5_4_dw_bn_offset,conv5_4_dw_bn_mean,conv5_4_dw_bn_scale,conv5_4_dw_bn_variance,depthwise_conv2d_9.tmp_0:conv5_4_dw_bn_mean,batch_norm_19.tmp_0,batch_norm_19.tmp_1,conv5_4_dw_bn_variance,batch_norm_19.tmp_2
+relu:batch_norm_19.tmp_2:batch_norm_19.tmp_3
+conv2d:conv5_4_sep_weights,batch_norm_19.tmp_3:conv2d_10.tmp_0
+batch_norm:conv5_4_sep_bn_offset,conv5_4_sep_bn_mean,conv5_4_sep_bn_scale,conv5_4_sep_bn_variance,conv2d_10.tmp_0:conv5_4_sep_bn_mean,batch_norm_20.tmp_0,batch_norm_20.tmp_1,conv5_4_sep_bn_variance,batch_norm_20.tmp_2
+relu:batch_norm_20.tmp_2:batch_norm_20.tmp_3
+depthwise_conv2d:conv5_5_dw_weights,batch_norm_20.tmp_3:depthwise_conv2d_10.tmp_0
+batch_norm:conv5_5_dw_bn_offset,conv5_5_dw_bn_mean,conv5_5_dw_bn_scale,conv5_5_dw_bn_variance,depthwise_conv2d_10.tmp_0:conv5_5_dw_bn_mean,batch_norm_21.tmp_0,batch_norm_21.tmp_1,conv5_5_dw_bn_variance,batch_norm_21.tmp_2
+relu:batch_norm_21.tmp_2:batch_norm_21.tmp_3
+conv2d:conv5_5_sep_weights,batch_norm_21.tmp_3:conv2d_11.tmp_0
+batch_norm:conv5_5_sep_bn_offset,conv5_5_sep_bn_mean,conv5_5_sep_bn_scale,conv5_5_sep_bn_variance,conv2d_11.tmp_0:conv5_5_sep_bn_mean,batch_norm_22.tmp_0,batch_norm_22.tmp_1,conv5_5_sep_bn_variance,batch_norm_22.tmp_2
+relu:batch_norm_22.tmp_2:batch_norm_22.tmp_3
+depthwise_conv2d:conv5_6_dw_weights,batch_norm_22.tmp_3:depthwise_conv2d_11.tmp_0
+batch_norm:conv5_6_dw_bn_offset,conv5_6_dw_bn_mean,conv5_6_dw_bn_scale,conv5_6_dw_bn_variance,depthwise_conv2d_11.tmp_0:conv5_6_dw_bn_mean,batch_norm_23.tmp_0,batch_norm_23.tmp_1,conv5_6_dw_bn_variance,batch_norm_23.tmp_2
+relu:batch_norm_23.tmp_2:batch_norm_23.tmp_3
+conv2d:conv5_6_sep_weights,batch_norm_23.tmp_3:conv2d_12.tmp_0
+batch_norm:conv5_6_sep_bn_offset,conv5_6_sep_bn_mean,conv5_6_sep_bn_scale,conv5_6_sep_bn_variance,conv2d_12.tmp_0:conv5_6_sep_bn_mean,batch_norm_24.tmp_0,batch_norm_24.tmp_1,conv5_6_sep_bn_variance,batch_norm_24.tmp_2
+relu:batch_norm_24.tmp_2:batch_norm_24.tmp_3
+depthwise_conv2d:conv6_dw_weights,batch_norm_24.tmp_3:depthwise_conv2d_12.tmp_0
+batch_norm:conv6_dw_bn_offset,conv6_dw_bn_mean,conv6_dw_bn_scale,conv6_dw_bn_variance,depthwise_conv2d_12.tmp_0:conv6_dw_bn_mean,batch_norm_25.tmp_0,batch_norm_25.tmp_1,conv6_dw_bn_variance,batch_norm_25.tmp_2
+relu:batch_norm_25.tmp_2:batch_norm_25.tmp_3
+conv2d:conv6_sep_weights,batch_norm_25.tmp_3:conv2d_13.tmp_0
+batch_norm:conv6_sep_bn_offset,conv6_sep_bn_mean,conv6_sep_bn_scale,conv6_sep_bn_variance,conv2d_13.tmp_0:conv6_sep_bn_mean,batch_norm_26.tmp_0,batch_norm_26.tmp_1,conv6_sep_bn_variance,batch_norm_26.tmp_2
+relu:batch_norm_26.tmp_2:batch_norm_26.tmp_3
+pool2d:batch_norm_26.tmp_3:pool2d_0.tmp_0
+mul:pool2d_0.tmp_0,fc7_weights:fc_0.tmp_0
+elementwise_add:fc_0.tmp_0,fc7_offset:fc_0.tmp_1
+softmax:fc_0.tmp_1:save_infer_model/scale_0
+fetch:save_infer_model/scale_0:fetch
+
+I0820 01:00:36.734086 10653 optimizer.cc:130] == Finished running: nnadapter_subgraph_pass
+I0820 01:00:36.734135 10653 optimizer.cc:110] == Running pass: remove_scale1_pass
+I0820 01:00:36.734172 10653 optimizer.cc:118]    - Skip remove_scale1_pass because the target or kernel does not match.
+I0820 01:00:36.734198 10653 optimizer.cc:110] == Running pass: adaptive_1x1_pool2d_convert_global_pass
+I0820 01:00:36.734228 10653 optimizer.cc:118]    - Skip adaptive_1x1_pool2d_convert_global_pass because the target or kernel does not match.
+I0820 01:00:36.734254 10653 optimizer.cc:110] == Running pass: lite_unsqueeze2_pad3d_squeeze2_fuse_pass
+I0820 01:00:36.735213 10653 optimizer.cc:130] == Finished running: lite_unsqueeze2_pad3d_squeeze2_fuse_pass
+I0820 01:00:36.735239 10653 optimizer.cc:110] == Running pass: lite_conv_elementwise_fuse_pass
+I0820 01:00:36.742622 10653 optimizer.cc:130] == Finished running: lite_conv_elementwise_fuse_pass
+I0820 01:00:36.742679 10653 optimizer.cc:110] == Running pass: lite_conv_bn_fuse_pass
+I0820 01:00:36.783332 10653 pattern_matcher.cc:108] detected 13 subgraph
+I0820 01:00:36.790902 10653 optimizer.cc:130] == Finished running: lite_conv_bn_fuse_pass
+I0820 01:00:36.790961 10653 optimizer.cc:110] == Running pass: lite_conv_elementwise_fuse_pass
+I0820 01:00:36.796950 10653 optimizer.cc:130] == Finished running: lite_conv_elementwise_fuse_pass
+I0820 01:00:36.796993 10653 optimizer.cc:110] == Running pass: lite_conv_conv_fuse_pass
+I0820 01:00:36.797041 10653 optimizer.cc:130] == Finished running: lite_conv_conv_fuse_pass
+I0820 01:00:36.797067 10653 optimizer.cc:110] == Running pass: lite_conv_activation_fuse_pass
+I0820 01:00:36.805119 10653 pattern_matcher.cc:108] detected 13 subgraph
+I0820 01:00:36.816795 10653 optimizer.cc:130] == Finished running: lite_conv_activation_fuse_pass
+I0820 01:00:36.816906 10653 optimizer.cc:110] == Running pass: lite_var_conv_2d_activation_fuse_pass
+I0820 01:00:36.817075 10653 optimizer.cc:118]    - Skip lite_var_conv_2d_activation_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.817121 10653 optimizer.cc:110] == Running pass: lite_match_matrix_activation_fuse_pass
+I0820 01:00:36.817193 10653 optimizer.cc:118]    - Skip lite_match_matrix_activation_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.817238 10653 optimizer.cc:110] == Running pass: lite_squeeze2_matmul_fuse_pass
+I0820 01:00:36.818313 10653 optimizer.cc:130] == Finished running: lite_squeeze2_matmul_fuse_pass
+I0820 01:00:36.818347 10653 optimizer.cc:110] == Running pass: lite_reshape2_matmul_fuse_pass
+I0820 01:00:36.819169 10653 optimizer.cc:130] == Finished running: lite_reshape2_matmul_fuse_pass
+I0820 01:00:36.819182 10653 optimizer.cc:110] == Running pass: lite_matmul_element_add_fuse_pass
+I0820 01:00:36.820459 10653 optimizer.cc:130] == Finished running: lite_matmul_element_add_fuse_pass
+I0820 01:00:36.820489 10653 optimizer.cc:110] == Running pass: lite_matmul_fuse_pass
+I0820 01:00:36.821014 10653 optimizer.cc:130] == Finished running: lite_matmul_fuse_pass
+I0820 01:00:36.821048 10653 optimizer.cc:110] == Running pass: lite_fc_fuse_pass
+I0820 01:00:36.827906 10653 pattern_matcher.cc:108] detected 1 subgraph
+I0820 01:00:36.828312 10653 optimizer.cc:130] == Finished running: lite_fc_fuse_pass
+I0820 01:00:36.828346 10653 optimizer.cc:110] == Running pass: lite_shuffle_channel_fuse_pass
+I0820 01:00:36.830004 10653 optimizer.cc:130] == Finished running: lite_shuffle_channel_fuse_pass
+I0820 01:00:36.830034 10653 optimizer.cc:110] == Running pass: lite_transpose_softmax_transpose_fuse_pass
+I0820 01:00:36.831084 10653 optimizer.cc:130] == Finished running: lite_transpose_softmax_transpose_fuse_pass
+I0820 01:00:36.831110 10653 optimizer.cc:110] == Running pass: lite_interpolate_fuse_pass
+I0820 01:00:36.834329 10653 optimizer.cc:130] == Finished running: lite_interpolate_fuse_pass
+I0820 01:00:36.834365 10653 optimizer.cc:110] == Running pass: identity_scale_eliminate_pass
+I0820 01:00:36.835193 10653 optimizer.cc:130] == Finished running: identity_scale_eliminate_pass
+I0820 01:00:36.835229 10653 optimizer.cc:110] == Running pass: lite_scales_fuse_pass
+I0820 01:00:36.835860 10653 optimizer.cc:130] == Finished running: lite_scales_fuse_pass
+I0820 01:00:36.835896 10653 optimizer.cc:110] == Running pass: lite_sequence_reverse_embedding_fuse_pass
+I0820 01:00:36.836014 10653 optimizer.cc:118]    - Skip lite_sequence_reverse_embedding_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.836135 10653 optimizer.cc:110] == Running pass: elementwise_mul_constant_eliminate_pass
+I0820 01:00:36.837285 10653 optimizer.cc:130] == Finished running: elementwise_mul_constant_eliminate_pass
+I0820 01:00:36.837319 10653 optimizer.cc:110] == Running pass: lite_sequence_pool_concat_fuse_pass
+I0820 01:00:36.837332 10653 optimizer.cc:118]    - Skip lite_sequence_pool_concat_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.837466 10653 optimizer.cc:110] == Running pass: lite_scale_activation_fuse_pass
+I0820 01:00:36.837700 10653 optimizer.cc:118]    - Skip lite_scale_activation_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.837739 10653 optimizer.cc:110] == Running pass: lite_scaleacts_fuse_pass
+I0820 01:00:36.837754 10653 optimizer.cc:118]    - Skip lite_scaleacts_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.837826 10653 optimizer.cc:110] == Running pass: lite_elementwise_scale_fuse_pass
+I0820 01:00:36.837951 10653 optimizer.cc:118]    - Skip lite_elementwise_scale_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.838099 10653 optimizer.cc:110] == Running pass: lite_instance_norm_activation_fuse_pass
+I0820 01:00:36.838177 10653 optimizer.cc:118]    - Skip lite_instance_norm_activation_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.838218 10653 optimizer.cc:110] == Running pass: lite_flatten_fc_fuse_pass
+I0820 01:00:36.840258 10653 optimizer.cc:130] == Finished running: lite_flatten_fc_fuse_pass
+I0820 01:00:36.840299 10653 optimizer.cc:110] == Running pass: lite_fc_prelu_fuse_pass
+I0820 01:00:36.840339 10653 optimizer.cc:118]    - Skip lite_fc_prelu_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.840348 10653 optimizer.cc:110] == Running pass: lite_elementwise_activation_fuse_pass
+I0820 01:00:36.840378 10653 optimizer.cc:118]    - Skip lite_elementwise_activation_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.840404 10653 optimizer.cc:110] == Running pass: lite_conv_scale_fuse_pass
+I0820 01:00:36.840443 10653 optimizer.cc:130] == Finished running: lite_conv_scale_fuse_pass
+I0820 01:00:36.840468 10653 optimizer.cc:110] == Running pass: lite_conv_elementwise_tree_fuse_pass
+I0820 01:00:36.840499 10653 optimizer.cc:118]    - Skip lite_conv_elementwise_tree_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.840524 10653 optimizer.cc:110] == Running pass: lite_greater_than_cast_fuse_pass
+I0820 01:00:36.840554 10653 optimizer.cc:118]    - Skip lite_greater_than_cast_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.840581 10653 optimizer.cc:110] == Running pass: fill_range_fuse_pass
+I0820 01:00:36.841293 10653 optimizer.cc:130] == Finished running: fill_range_fuse_pass
+I0820 01:00:36.841336 10653 optimizer.cc:110] == Running pass: identity_dropout_eliminate_pass
+I0820 01:00:36.841951 10653 optimizer.cc:130] == Finished running: identity_dropout_eliminate_pass
+I0820 01:00:36.841979 10653 optimizer.cc:110] == Running pass: sparse_conv_detect_pass
+I0820 01:00:36.842011 10653 optimizer.cc:118]    - Skip sparse_conv_detect_pass because the target or kernel does not match.
+I0820 01:00:36.842036 10653 optimizer.cc:110] == Running pass: keepdims_convert_pass
+I0820 01:00:36.842065 10653 optimizer.cc:118]    - Skip keepdims_convert_pass because the target or kernel does not match.
+I0820 01:00:36.842072 10653 optimizer.cc:110] == Running pass: __xpu__max_pooling_pad_zero_detect_fuse_pass
+I0820 01:00:36.842077 10653 optimizer.cc:118]    - Skip __xpu__max_pooling_pad_zero_detect_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842082 10653 optimizer.cc:110] == Running pass: __xpu__graph_dedup_pass
+I0820 01:00:36.842087 10653 optimizer.cc:118]    - Skip __xpu__graph_dedup_pass because the target or kernel does not match.
+I0820 01:00:36.842089 10653 optimizer.cc:110] == Running pass: __xpu__resnet_fuse_pass
+I0820 01:00:36.842115 10653 optimizer.cc:118]    - Skip __xpu__resnet_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842141 10653 optimizer.cc:110] == Running pass: __xpu__conv2d_affine_channel_fuse_pass
+I0820 01:00:36.842154 10653 optimizer.cc:118]    - Skip __xpu__conv2d_affine_channel_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842159 10653 optimizer.cc:110] == Running pass: __xpu__conv2d_fuse_pass
+I0820 01:00:36.842178 10653 optimizer.cc:118]    - Skip __xpu__conv2d_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842200 10653 optimizer.cc:110] == Running pass: __xpu__squeeze_excitation_fuse_pass
+I0820 01:00:36.842213 10653 optimizer.cc:118]    - Skip __xpu__squeeze_excitation_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842218 10653 optimizer.cc:110] == Running pass: __xpu__mmdnn_fuse_pass
+I0820 01:00:36.842243 10653 optimizer.cc:118]    - Skip __xpu__mmdnn_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842260 10653 optimizer.cc:110] == Running pass: __xpu__bigru_fuse_pass
+I0820 01:00:36.842267 10653 optimizer.cc:118]    - Skip __xpu__bigru_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842269 10653 optimizer.cc:110] == Running pass: __xpu__multi_encoder_fuse_pass
+I0820 01:00:36.842275 10653 optimizer.cc:118]    - Skip __xpu__multi_encoder_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842278 10653 optimizer.cc:110] == Running pass: __xpu__embedding_with_eltwise_add_fuse_pass
+I0820 01:00:36.842283 10653 optimizer.cc:118]    - Skip __xpu__embedding_with_eltwise_add_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842286 10653 optimizer.cc:110] == Running pass: __xpu__fc_fuse_pass
+I0820 01:00:36.842291 10653 optimizer.cc:118]    - Skip __xpu__fc_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842294 10653 optimizer.cc:110] == Running pass: __xpu__softmax_topk_fuse_pass
+I0820 01:00:36.842299 10653 optimizer.cc:118]    - Skip __xpu__softmax_topk_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842303 10653 optimizer.cc:110] == Running pass: __xpu__multi_encoder_adaptive_seqlen_fuse_pass
+I0820 01:00:36.842322 10653 optimizer.cc:118]    - Skip __xpu__multi_encoder_adaptive_seqlen_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842326 10653 optimizer.cc:110] == Running pass: __xpu__multi_encoder_slice_link_fuse_pass
+I0820 01:00:36.842335 10653 optimizer.cc:118]    - Skip __xpu__multi_encoder_slice_link_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842339 10653 optimizer.cc:110] == Running pass: __xpu__generate_sequence_fuse_pass
+I0820 01:00:36.842345 10653 optimizer.cc:118]    - Skip __xpu__generate_sequence_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842368 10653 optimizer.cc:110] == Running pass: __xpu__logit_fuse_pass
+I0820 01:00:36.842388 10653 optimizer.cc:118]    - Skip __xpu__logit_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842396 10653 optimizer.cc:110] == Running pass: __xpu__link_previous_out_max_pass
+I0820 01:00:36.842403 10653 optimizer.cc:118]    - Skip __xpu__link_previous_out_max_pass because the target or kernel does not match.
+I0820 01:00:36.842406 10653 optimizer.cc:110] == Running pass: fix_mismatched_precision_pass
+I0820 01:00:36.842411 10653 optimizer.cc:118]    - Skip fix_mismatched_precision_pass because the target or kernel does not match.
+I0820 01:00:36.842414 10653 optimizer.cc:110] == Running pass: __xpu__dynamic_lstm_fuse_pass
+I0820 01:00:36.842419 10653 optimizer.cc:118]    - Skip __xpu__dynamic_lstm_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842423 10653 optimizer.cc:110] == Running pass: __xpu__multi_softmax_fuse_pass
+I0820 01:00:36.842428 10653 optimizer.cc:118]    - Skip __xpu__multi_softmax_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842432 10653 optimizer.cc:110] == Running pass: npu_subgraph_pass
+I0820 01:00:36.842437 10653 optimizer.cc:118]    - Skip npu_subgraph_pass because the target or kernel does not match.
+I0820 01:00:36.842439 10653 optimizer.cc:110] == Running pass: bm_subgraph_pass
+I0820 01:00:36.842444 10653 optimizer.cc:118]    - Skip bm_subgraph_pass because the target or kernel does not match.
+I0820 01:00:36.842447 10653 optimizer.cc:110] == Running pass: mlu_subgraph_pass
+I0820 01:00:36.842453 10653 optimizer.cc:118]    - Skip mlu_subgraph_pass because the target or kernel does not match.
+I0820 01:00:36.842455 10653 optimizer.cc:110] == Running pass: fpga_concat_fuse_pass
+I0820 01:00:36.842460 10653 optimizer.cc:118]    - Skip fpga_concat_fuse_pass because the target or kernel does not match.
+I0820 01:00:36.842464 10653 optimizer.cc:110] == Running pass: control_flow_op_unused_inputs_and_outputs_eliminate_pass
+I0820 01:00:36.842469 10653 optimizer.cc:118]    - Skip control_flow_op_unused_inputs_and_outputs_eliminate_pass because the target or kernel does not match.
+I0820 01:00:36.842473 10653 optimizer.cc:110] == Running pass: static_kernel_pick_pass
+I0820 01:00:36.850006 10653 optimizer.cc:130] == Finished running: static_kernel_pick_pass
+I0820 01:00:36.850045 10653 optimizer.cc:110] == Running pass: remove_tf_redundant_ops_pass
+I0820 01:00:36.850713 10653 optimizer.cc:130] == Finished running: remove_tf_redundant_ops_pass
+I0820 01:00:36.850745 10653 optimizer.cc:110] == Running pass: variable_place_inference_pass
+I0820 01:00:36.852780 10653 optimizer.cc:130] == Finished running: variable_place_inference_pass
+I0820 01:00:36.852808 10653 optimizer.cc:110] == Running pass: control_flow_op_shared_inputs_and_outputs_place_sync_pass
+I0820 01:00:36.852820 10653 optimizer.cc:118]    - Skip control_flow_op_shared_inputs_and_outputs_place_sync_pass because the target or kernel does not match.
+I0820 01:00:36.852824 10653 optimizer.cc:110] == Running pass: __fpga_kernel_place_correct_pass
+I0820 01:00:36.852829 10653 optimizer.cc:118]    - Skip __fpga_kernel_place_correct_pass because the target or kernel does not match.
+I0820 01:00:36.852833 10653 optimizer.cc:110] == Running pass: mlu_postprocess_pass
+I0820 01:00:36.852859 10653 optimizer.cc:118]    - Skip mlu_postprocess_pass because the target or kernel does not match.
+I0820 01:00:36.852883 10653 optimizer.cc:110] == Running pass: argument_type_display_pass
+I0820 01:00:36.852910 10653 optimizer.cc:130] == Finished running: argument_type_display_pass
+I0820 01:00:36.852933 10653 optimizer.cc:110] == Running pass: type_target_cast_pass
+I0820 01:00:36.854310 10653 optimizer.cc:130] == Finished running: type_target_cast_pass
+I0820 01:00:36.854337 10653 optimizer.cc:110] == Running pass: variable_place_inference_pass
+I0820 01:00:36.856074 10653 optimizer.cc:130] == Finished running: variable_place_inference_pass
+I0820 01:00:36.856101 10653 optimizer.cc:110] == Running pass: control_flow_op_shared_inputs_and_outputs_place_sync_pass
+I0820 01:00:36.856113 10653 optimizer.cc:118]    - Skip control_flow_op_shared_inputs_and_outputs_place_sync_pass because the target or kernel does not match.
+I0820 01:00:36.856117 10653 optimizer.cc:110] == Running pass: argument_type_display_pass
+I0820 01:00:36.856137 10653 optimizer.cc:130] == Finished running: argument_type_display_pass
+I0820 01:00:36.856161 10653 optimizer.cc:110] == Running pass: io_copy_kernel_pick_pass
+I0820 01:00:36.856830 10653 optimizer.cc:118]    - Skip io_copy_kernel_pick_pass because the target or kernel does not match.
+I0820 01:00:36.856856 10653 optimizer.cc:110] == Running pass: argument_type_display_pass
+I0820 01:00:36.856901 10653 optimizer.cc:130] == Finished running: argument_type_display_pass
+I0820 01:00:36.856926 10653 optimizer.cc:110] == Running pass: variable_place_inference_pass
+I0820 01:00:36.858675 10653 optimizer.cc:130] == Finished running: variable_place_inference_pass
+I0820 01:00:36.858706 10653 optimizer.cc:110] == Running pass: control_flow_op_shared_inputs_and_outputs_place_sync_pass
+I0820 01:00:36.858719 10653 optimizer.cc:118]    - Skip control_flow_op_shared_inputs_and_outputs_place_sync_pass because the target or kernel does not match.
+I0820 01:00:36.858723 10653 optimizer.cc:110] == Running pass: argument_type_display_pass
+I0820 01:00:36.858862 10653 optimizer.cc:130] == Finished running: argument_type_display_pass
+I0820 01:00:36.858896 10653 optimizer.cc:110] == Running pass: type_precision_cast_pass
+I0820 01:00:36.861428 10653 optimizer.cc:130] == Finished running: type_precision_cast_pass
+I0820 01:00:36.861462 10653 optimizer.cc:110] == Running pass: variable_place_inference_pass
+I0820 01:00:36.863935 10653 optimizer.cc:130] == Finished running: variable_place_inference_pass
+I0820 01:00:36.863982 10653 optimizer.cc:110] == Running pass: control_flow_op_shared_inputs_and_outputs_place_sync_pass
+I0820 01:00:36.864024 10653 optimizer.cc:118]    - Skip control_flow_op_shared_inputs_and_outputs_place_sync_pass because the target or kernel does not match.
+I0820 01:00:36.864050 10653 optimizer.cc:110] == Running pass: argument_type_display_pass
+I0820 01:00:36.864101 10653 optimizer.cc:130] == Finished running: argument_type_display_pass
+I0820 01:00:36.864127 10653 optimizer.cc:110] == Running pass: type_layout_cast_pass
+I0820 01:00:36.864928 10653 optimizer.cc:118]    - Skip type_layout_cast_pass because the target or kernel does not match.
+I0820 01:00:36.864971 10653 optimizer.cc:110] == Running pass: argument_type_display_pass
+I0820 01:00:36.865043 10653 optimizer.cc:130] == Finished running: argument_type_display_pass
+I0820 01:00:36.865072 10653 optimizer.cc:110] == Running pass: variable_place_inference_pass
+I0820 01:00:36.867066 10653 optimizer.cc:130] == Finished running: variable_place_inference_pass
+I0820 01:00:36.867123 10653 optimizer.cc:110] == Running pass: control_flow_op_shared_inputs_and_outputs_place_sync_pass
+I0820 01:00:36.867142 10653 optimizer.cc:118]    - Skip control_flow_op_shared_inputs_and_outputs_place_sync_pass because the target or kernel does not match.
+I0820 01:00:36.867168 10653 optimizer.cc:110] == Running pass: argument_type_display_pass
+I0820 01:00:36.867215 10653 optimizer.cc:130] == Finished running: argument_type_display_pass
+I0820 01:00:36.867241 10653 optimizer.cc:110] == Running pass: runtime_context_assign_pass
+I0820 01:00:36.867435 10653 optimizer.cc:130] == Finished running: runtime_context_assign_pass
+I0820 01:00:36.867465 10653 optimizer.cc:110] == Running pass: argument_type_display_pass
+I0820 01:00:36.867511 10653 optimizer.cc:130] == Finished running: argument_type_display_pass
+I0820 01:00:36.867537 10653 optimizer.cc:110] == Running pass: lite_inplace_fuse_pass
+I0820 01:00:36.869491 10653 optimizer.cc:130] == Finished running: lite_inplace_fuse_pass
+I0820 01:00:36.869526 10653 optimizer.cc:110] == Running pass: memory_optimize_pass
+I0820 01:00:36.869565 10653 optimizer.cc:118]    - Skip memory_optimize_pass because the target or kernel does not match.
+I0820 01:00:36.869590 10653 optimizer.cc:110] == Running pass: xpu_memory_optimize_pass
+I0820 01:00:36.869622 10653 optimizer.cc:118]    - Skip xpu_memory_optimize_pass because the target or kernel does not match.
+I0820 01:00:36.870231 10653 generate_program_pass.h:41] insts.size: 1
+I0820 01:00:37.178848 10653 model_parser.cc:569] 2. Model is optimized and saved into mobilenet_v1_x86.nb successfully
+[I  8/20  1: 0:37.182 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:37.182 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:37.182332 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:37.185 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:37.185 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:37.186 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_4[label="{0}:[1]:i32"]
+   node_3[label="0x15B8840:[32]:f32"]
+   node_2[label="0x15B9A40:[32,3,3,3]:f32"]
+   node_1[label="0x15C5B30:[1,3,224,224]:f32"]
+   node_6[label="{2,2}:[2]:i32"]
+   node_7[label="{1}:[1]:i32"]
+   node_5[label="{1,1,1,1}:[4]:i32"]
+   node_9[label="{0}:[1]:i32"]
+   node_8[label="{1,1}:[2]:i32"]
+   node_10[label="0x163A4B0:[1,32,112,112]:f32"]
+   node_0[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_1->node_0[label="0:input"]
+   node_2->node_0[label="1:filter"]
+   node_3->node_0[label="2:bias"]
+   node_4->node_0[label="3:auto_pad"]
+   node_5->node_0[label="4:pads"]
+   node_6->node_0[label="5:strides"]
+   node_7->node_0[label="6:group"]
+   node_8->node_0[label="7:dilations"]
+   node_9->node_0[label="8:fuse_code"]
+   node_0->node_10[label="0:output"]
+} // end G
+[I  8/20  1: 0:37.186 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x15e6140
+[I  8/20  1: 0:37.187 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x15e6140
+[I  8/20  1: 0:37.187 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:37.226 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:37.227 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:37.227082 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:37.227 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:37.227 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:37.227 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_32[label="0x15C25F0:[1,64,112,112]:f32"]
+   node_24[label="0x15DECC0:[64,32,1,1]:f32"]
+   node_27[label="{0,0,0,0}:[4]:i32"]
+   node_25[label="0x15F0630:[64]:f32"]
+   node_29[label="{1}:[1]:i32"]
+   node_31[label="{0}:[1]:i32"]
+   node_23[label="0x1609E90:[1,32,112,112]:f32"]
+   node_28[label="{1,1}:[2]:i32"]
+   node_30[label="{1,1}:[2]:i32"]
+   node_26[label="{0}:[1]:i32"]
+   node_22[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_23->node_22[label="0:input"]
+   node_24->node_22[label="1:filter"]
+   node_25->node_22[label="2:bias"]
+   node_26->node_22[label="3:auto_pad"]
+   node_27->node_22[label="4:pads"]
+   node_28->node_22[label="5:strides"]
+   node_29->node_22[label="6:group"]
+   node_30->node_22[label="7:dilations"]
+   node_31->node_22[label="8:fuse_code"]
+   node_22->node_32[label="0:output"]
+} // end G
+[I  8/20  1: 0:37.227 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x15da8e0
+[I  8/20  1: 0:37.227 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x15da8e0
+[I  8/20  1: 0:37.227 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:37.377 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:37.378 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:37.378083 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:37.378 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:37.378 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:37.378 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_52[label="{1,1}:[2]:i32"]
+   node_49[label="{0,0,0,0}:[4]:i32"]
+   node_47[label="0x15C0B20:[128]:f32"]
+   node_53[label="{0}:[1]:i32"]
+   node_46[label="0x15DDAC0:[128,64,1,1]:f32"]
+   node_50[label="{1,1}:[2]:i32"]
+   node_45[label="0x16561D0:[1,64,56,56]:f32"]
+   node_51[label="{1}:[1]:i32"]
+   node_48[label="{0}:[1]:i32"]
+   node_54[label="0x16B5000:[1,128,56,56]:f32"]
+   node_44[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_45->node_44[label="0:input"]
+   node_46->node_44[label="1:filter"]
+   node_47->node_44[label="2:bias"]
+   node_48->node_44[label="3:auto_pad"]
+   node_49->node_44[label="4:pads"]
+   node_50->node_44[label="5:strides"]
+   node_51->node_44[label="6:group"]
+   node_52->node_44[label="7:dilations"]
+   node_53->node_44[label="8:fuse_code"]
+   node_44->node_54[label="0:output"]
+} // end G
+[I  8/20  1: 0:37.378 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x1608bd0
+[I  8/20  1: 0:37.378 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x1608bd0
+[I  8/20  1: 0:37.378 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:37.524 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:37.524 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:37.524139 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:37.524 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:37.524 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:37.524 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_71[label="{0,0,0,0}:[4]:i32"]
+   node_67[label="0x15BE2B0:[1,128,56,56]:f32"]
+   node_75[label="{0}:[1]:i32"]
+   node_76[label="0x15C4BB0:[1,128,56,56]:f32"]
+   node_72[label="{1,1}:[2]:i32"]
+   node_68[label="0x15E8410:[128,128,1,1]:f32"]
+   node_69[label="0x1602300:[128]:f32"]
+   node_70[label="{0}:[1]:i32"]
+   node_73[label="{1}:[1]:i32"]
+   node_74[label="{1,1}:[2]:i32"]
+   node_66[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_67->node_66[label="0:input"]
+   node_68->node_66[label="1:filter"]
+   node_69->node_66[label="2:bias"]
+   node_70->node_66[label="3:auto_pad"]
+   node_71->node_66[label="4:pads"]
+   node_72->node_66[label="5:strides"]
+   node_73->node_66[label="6:group"]
+   node_74->node_66[label="7:dilations"]
+   node_75->node_66[label="8:fuse_code"]
+   node_66->node_76[label="0:output"]
+} // end G
+[I  8/20  1: 0:37.524 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x15e53d0
+[I  8/20  1: 0:37.524 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x15e53d0
+[I  8/20  1: 0:37.524 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:37.815 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:37.815 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:37.815627 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:37.815 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:37.815 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:37.815 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_92[label="{0}:[1]:i32"]
+   node_90[label="0x15C4430:[256,128,1,1]:f32"]
+   node_91[label="0x15E2450:[256]:f32"]
+   node_94[label="{1,1}:[2]:i32"]
+   node_93[label="{0,0,0,0}:[4]:i32"]
+   node_96[label="{1,1}:[2]:i32"]
+   node_89[label="0x1634D90:[1,128,28,28]:f32"]
+   node_95[label="{1}:[1]:i32"]
+   node_97[label="{0}:[1]:i32"]
+   node_98[label="0x16B5290:[1,256,28,28]:f32"]
+   node_88[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_89->node_88[label="0:input"]
+   node_90->node_88[label="1:filter"]
+   node_91->node_88[label="2:bias"]
+   node_92->node_88[label="3:auto_pad"]
+   node_93->node_88[label="4:pads"]
+   node_94->node_88[label="5:strides"]
+   node_95->node_88[label="6:group"]
+   node_96->node_88[label="7:dilations"]
+   node_97->node_88[label="8:fuse_code"]
+   node_88->node_98[label="0:output"]
+} // end G
+[I  8/20  1: 0:37.816 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x16086b0
+[I  8/20  1: 0:37.816 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x16086b0
+[I  8/20  1: 0:37.816 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:37.955 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:37.955 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:37.955904 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:37.956 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:37.956 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:37.956 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_111[label="0x15BAC20:[1,256,28,28]:f32"]
+   node_120[label="0x15D2A60:[1,256,28,28]:f32"]
+   node_112[label="0x15DD280:[256,256,1,1]:f32"]
+   node_119[label="{0}:[1]:i32"]
+   node_118[label="{1,1}:[2]:i32"]
+   node_116[label="{1,1}:[2]:i32"]
+   node_117[label="{1}:[1]:i32"]
+   node_115[label="{0,0,0,0}:[4]:i32"]
+   node_114[label="{0}:[1]:i32"]
+   node_113[label="0x1658770:[256]:f32"]
+   node_110[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_111->node_110[label="0:input"]
+   node_112->node_110[label="1:filter"]
+   node_113->node_110[label="2:bias"]
+   node_114->node_110[label="3:auto_pad"]
+   node_115->node_110[label="4:pads"]
+   node_116->node_110[label="5:strides"]
+   node_117->node_110[label="6:group"]
+   node_118->node_110[label="7:dilations"]
+   node_119->node_110[label="8:fuse_code"]
+   node_110->node_120[label="0:output"]
+} // end G
+[I  8/20  1: 0:37.956 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x1614b00
+[I  8/20  1: 0:37.956 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x1614b00
+[I  8/20  1: 0:37.956 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:38.235 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:38.235 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:38.235890 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:38.236 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:38.236 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:38.236 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_140[label="{1,1}:[2]:i32"]
+   node_139[label="{1}:[1]:i32"]
+   node_133[label="0x15EF0B0:[1,256,14,14]:f32"]
+   node_142[label="0x162E790:[1,512,14,14]:f32"]
+   node_141[label="{0}:[1]:i32"]
+   node_136[label="{0}:[1]:i32"]
+   node_137[label="{0,0,0,0}:[4]:i32"]
+   node_134[label="0x16AB6B0:[512,256,1,1]:f32"]
+   node_135[label="0x16AD9F0:[512]:f32"]
+   node_138[label="{1,1}:[2]:i32"]
+   node_132[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_133->node_132[label="0:input"]
+   node_134->node_132[label="1:filter"]
+   node_135->node_132[label="2:bias"]
+   node_136->node_132[label="3:auto_pad"]
+   node_137->node_132[label="4:pads"]
+   node_138->node_132[label="5:strides"]
+   node_139->node_132[label="6:group"]
+   node_140->node_132[label="7:dilations"]
+   node_141->node_132[label="8:fuse_code"]
+   node_132->node_142[label="0:output"]
+} // end G
+[I  8/20  1: 0:38.236 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x1615f90
+[I  8/20  1: 0:38.236 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x1615f90
+[I  8/20  1: 0:38.236 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:38.364 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:38.364 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:38.364534 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:38.365 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:38.365 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:38.365 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_156[label="0x15C4F50:[512,512,1,1]:f32"]
+   node_155[label="0x15D7B60:[1,512,14,14]:f32"]
+   node_157[label="0x15DC8B0:[512]:f32"]
+   node_161[label="{1}:[1]:i32"]
+   node_162[label="{1,1}:[2]:i32"]
+   node_163[label="{0}:[1]:i32"]
+   node_160[label="{1,1}:[2]:i32"]
+   node_158[label="{0}:[1]:i32"]
+   node_164[label="0x1655940:[1,512,14,14]:f32"]
+   node_159[label="{0,0,0,0}:[4]:i32"]
+   node_154[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_155->node_154[label="0:input"]
+   node_156->node_154[label="1:filter"]
+   node_157->node_154[label="2:bias"]
+   node_158->node_154[label="3:auto_pad"]
+   node_159->node_154[label="4:pads"]
+   node_160->node_154[label="5:strides"]
+   node_161->node_154[label="6:group"]
+   node_162->node_154[label="7:dilations"]
+   node_163->node_154[label="8:fuse_code"]
+   node_154->node_164[label="0:output"]
+} // end G
+[I  8/20  1: 0:38.366 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x162c0f0
+[I  8/20  1: 0:38.366 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x162c0f0
+[I  8/20  1: 0:38.366 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:38.639 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:38.639 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:38.639405 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:38.639 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:38.639 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:38.639 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_186[label="0x15F4E30:[1,512,14,14]:f32"]
+   node_178[label="0x1627FB0:[512,512,1,1]:f32"]
+   node_179[label="0x16281A0:[512]:f32"]
+   node_177[label="0x1655B30:[1,512,14,14]:f32"]
+   node_180[label="{0}:[1]:i32"]
+   node_181[label="{0,0,0,0}:[4]:i32"]
+   node_182[label="{1,1}:[2]:i32"]
+   node_183[label="{1}:[1]:i32"]
+   node_184[label="{1,1}:[2]:i32"]
+   node_185[label="{0}:[1]:i32"]
+   node_176[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_177->node_176[label="0:input"]
+   node_178->node_176[label="1:filter"]
+   node_179->node_176[label="2:bias"]
+   node_180->node_176[label="3:auto_pad"]
+   node_181->node_176[label="4:pads"]
+   node_182->node_176[label="5:strides"]
+   node_183->node_176[label="6:group"]
+   node_184->node_176[label="7:dilations"]
+   node_185->node_176[label="8:fuse_code"]
+   node_176->node_186[label="0:output"]
+} // end G
+[I  8/20  1: 0:38.640 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x162b760
+[I  8/20  1: 0:38.640 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x162b760
+[I  8/20  1: 0:38.640 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:38.913 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:38.913 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:38.913213 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:38.913 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:38.913 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:38.913 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_204[label="{1,1}:[2]:i32"]
+   node_205[label="{1}:[1]:i32"]
+   node_206[label="{1,1}:[2]:i32"]
+   node_207[label="{0}:[1]:i32"]
+   node_208[label="0x16AFF20:[1,512,14,14]:f32"]
+   node_202[label="{0}:[1]:i32"]
+   node_203[label="{0,0,0,0}:[4]:i32"]
+   node_199[label="0x16B55F0:[1,512,14,14]:f32"]
+   node_200[label="0x16B57E0:[512,512,1,1]:f32"]
+   node_201[label="0x16B59D0:[512]:f32"]
+   node_198[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_199->node_198[label="0:input"]
+   node_200->node_198[label="1:filter"]
+   node_201->node_198[label="2:bias"]
+   node_202->node_198[label="3:auto_pad"]
+   node_203->node_198[label="4:pads"]
+   node_204->node_198[label="5:strides"]
+   node_205->node_198[label="6:group"]
+   node_206->node_198[label="7:dilations"]
+   node_207->node_198[label="8:fuse_code"]
+   node_198->node_208[label="0:output"]
+} // end G
+[I  8/20  1: 0:38.914 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x1643840
+[I  8/20  1: 0:38.914 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x1643840
+[I  8/20  1: 0:38.914 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:39.206 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:39.206 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:39.206387 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:39.206 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:39.206 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:39.206 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_221[label="0x16A8720:[1,512,14,14]:f32"]
+   node_222[label="0x16A8BB0:[512,512,1,1]:f32"]
+   node_225[label="{0,0,0,0}:[4]:i32"]
+   node_226[label="{1,1}:[2]:i32"]
+   node_227[label="{1}:[1]:i32"]
+   node_228[label="{1,1}:[2]:i32"]
+   node_229[label="{0}:[1]:i32"]
+   node_223[label="0x16B2880:[512]:f32"]
+   node_224[label="{0}:[1]:i32"]
+   node_230[label="0x16B4080:[1,512,14,14]:f32"]
+   node_220[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_221->node_220[label="0:input"]
+   node_222->node_220[label="1:filter"]
+   node_223->node_220[label="2:bias"]
+   node_224->node_220[label="3:auto_pad"]
+   node_225->node_220[label="4:pads"]
+   node_226->node_220[label="5:strides"]
+   node_227->node_220[label="6:group"]
+   node_228->node_220[label="7:dilations"]
+   node_229->node_220[label="8:fuse_code"]
+   node_220->node_230[label="0:output"]
+} // end G
+[I  8/20  1: 0:39.207 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x1644d70
+[I  8/20  1: 0:39.207 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x1644d70
+[I  8/20  1: 0:39.207 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:39.483 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:39.483 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:39.483238 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:39.483 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:39.483 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:39.483 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_245[label="0x1533950:[512]:f32"]
+   node_250[label="{1,1}:[2]:i32"]
+   node_251[label="{0}:[1]:i32"]
+   node_252[label="0x1534770:[1,512,14,14]:f32"]
+   node_243[label="0x1671240:[1,512,14,14]:f32"]
+   node_244[label="0x16716D0:[512,512,1,1]:f32"]
+   node_246[label="{0}:[1]:i32"]
+   node_247[label="{0,0,0,0}:[4]:i32"]
+   node_248[label="{1,1}:[2]:i32"]
+   node_249[label="{1}:[1]:i32"]
+   node_242[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_243->node_242[label="0:input"]
+   node_244->node_242[label="1:filter"]
+   node_245->node_242[label="2:bias"]
+   node_246->node_242[label="3:auto_pad"]
+   node_247->node_242[label="4:pads"]
+   node_248->node_242[label="5:strides"]
+   node_249->node_242[label="6:group"]
+   node_250->node_242[label="7:dilations"]
+   node_251->node_242[label="8:fuse_code"]
+   node_242->node_252[label="0:output"]
+} // end G
+[I  8/20  1: 0:39.486 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x15d7660
+[I  8/20  1: 0:39.487 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x15d7660
+[I  8/20  1: 0:39.487 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:39.760 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:39.760 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:39.760704 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:39.761 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:39.761 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:39.761 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_265[label="0x1535720:[1,512,7,7]:f32"]
+   node_266[label="0x1535BB0:[1024,512,1,1]:f32"]
+   node_268[label="{0}:[1]:i32"]
+   node_269[label="{0,0,0,0}:[4]:i32"]
+   node_270[label="{1,1}:[2]:i32"]
+   node_271[label="{1}:[1]:i32"]
+   node_272[label="{1,1}:[2]:i32"]
+   node_273[label="{0}:[1]:i32"]
+   node_274[label="0x1536A20:[1,1024,7,7]:f32"]
+   node_267[label="0x15473A0:[1024]:f32"]
+   node_264[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_265->node_264[label="0:input"]
+   node_266->node_264[label="1:filter"]
+   node_267->node_264[label="2:bias"]
+   node_268->node_264[label="3:auto_pad"]
+   node_269->node_264[label="4:pads"]
+   node_270->node_264[label="5:strides"]
+   node_271->node_264[label="6:group"]
+   node_272->node_264[label="7:dilations"]
+   node_273->node_264[label="8:fuse_code"]
+   node_264->node_274[label="0:output"]
+} // end G
+[I  8/20  1: 0:39.763 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x15ebc20
+[I  8/20  1: 0:39.763 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x15ebc20
+[I  8/20  1: 0:39.763 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:39.890 ...r/nnadapter/src/driver/lyf_npu/driver.cc:46 CreateContext] CreateContext for lyf_npu.
+[W  8/20  1: 0:39.890 ...ter/nnadapter/src/runtime/compilation.cc:334 Finish] Warning: Failed to create a program, No model and cache is provided.
+W0820 01:00:39.890879 10653 engine.cc:149] Warning: Build model failed(3) !
+[I  8/20  1: 0:39.891 ...r/nnadapter/src/driver/lyf_npu/driver.cc:72 ValidateProgram] Validate program for lyf_npu.
+[I  8/20  1: 0:39.891 ...r/nnadapter/src/driver/lyf_npu/driver.cc:90 CreateProgram] Create program for lyf_npu.
+[I  8/20  1: 0:39.891 ...r/nnadapter/src/driver/lyf_npu/engine.cc:67 BuildFromModel] Origin model:
+digraph G {
+   node_287[label="0x15495B0:[1,1024,7,7]:f32"]
+   node_288[label="0x1549A40:[1024,1024,1,1]:f32"]
+   node_290[label="{0}:[1]:i32"]
+   node_291[label="{0,0,0,0}:[4]:i32"]
+   node_292[label="{1,1}:[2]:i32"]
+   node_293[label="{1}:[1]:i32"]
+   node_294[label="{1,1}:[2]:i32"]
+   node_295[label="{0}:[1]:i32"]
+   node_296[label="0x154A8B0:[1,1024,7,7]:f32"]
+   node_289[label="0x154AC40:[1024]:f32"]
+   node_286[label="CONV_2D" shape="box" style="filled" color="black" fillcolor="yellow"]
+   node_287->node_286[label="0:input"]
+   node_288->node_286[label="1:filter"]
+   node_289->node_286[label="2:bias"]
+   node_290->node_286[label="3:auto_pad"]
+   node_291->node_286[label="4:pads"]
+   node_292->node_286[label="5:strides"]
+   node_293->node_286[label="6:group"]
+   node_294->node_286[label="7:dilations"]
+   node_295->node_286[label="8:fuse_code"]
+   node_286->node_296[label="0:output"]
+} // end G
+[I  8/20  1: 0:39.893 ...iver/lyf_npu/lyf_device/src/execution.cc:25 Execution] Create a execution from graph @0x0x1640c80
+[I  8/20  1: 0:39.893 ...iver/lyf_npu/lyf_device/src/execution.cc:33 Build] Build a device program from graph @0x0x1640c80
+[I  8/20  1: 0:39.893 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:40.246 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:40.280 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:40.424 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:40.564 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:40.849 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:40.985 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:41.255 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:41.380 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:41.648 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:41.918 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:42.193 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:42.464 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:42.732 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:42.858 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:43.145 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:43.179 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:43.323 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:43.463 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:43.746 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:43.883 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:44.163 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:44.293 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:44.565 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:44.835 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:45.108 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:45.377 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:45.646 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:45.772 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:46. 59 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:46. 92 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:46.237 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:46.377 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:46.662 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:46.799 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:47. 68 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:47.201 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:47.470 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:47.738 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:48. 12 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:48.280 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:48.550 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:48.677 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:48.965 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:48.  0 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:49.149 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:49.292 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:49.590 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:49.726 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:49.996 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:50.124 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:50.392 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:50.662 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:50.937 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:51.206 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:51.475 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:51.601 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:51.887 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:51.921 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:52. 65 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:52.207 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:52.490 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:52.626 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:52.895 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:53. 21 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:53.291 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:53.560 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:53.833 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:54.110 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:54.383 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:54.512 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:54.800 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:54.834 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:54.978 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:55.118 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:55.409 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:55.545 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:55.811 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:55.936 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:56.206 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:56.476 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:56.752 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:57. 20 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:57.290 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:57.416 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:57.702 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:57.737 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:57.881 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:58. 23 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:58.317 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:58.456 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:58.731 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:58.863 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:59.136 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:59.411 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:59.685 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 0:59.955 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 0.225 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 0.352 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 0.639 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 0.673 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 0.817 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 0.956 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 1.242 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 1.378 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 1.647 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 1.774 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 2. 43 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 2.312 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 2.586 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 2.854 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 3.122 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 3.248 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 3.538 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 3.572 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 3.716 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 3.856 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 4.152 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 4.291 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 4.568 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 4.694 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 4.963 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 5.232 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 5.507 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 5.774 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 6. 42 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 6.169 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 6.456 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 6.490 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 6.633 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 6.772 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 7. 56 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 7.192 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 7.465 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 7.591 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 7.859 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 8.128 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 8.402 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 8.670 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 8.943 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 9. 71 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+run_idx:1 / 10: 2905.88 ms
+[I  8/20  1: 1: 9.362 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 9.396 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 9.542 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 9.681 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1: 9.966 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:10.101 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:10.371 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:10.496 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:10.765 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:11. 33 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:11.306 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:11.579 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:11.849 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:11.975 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+run_idx:2 / 10: 2901.44 ms
+[I  8/20  1: 1:12.263 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:12.297 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:12.443 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:12.582 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:12.866 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:12.  2 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:13.273 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:13.400 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:13.671 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:13.946 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:14.224 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:14.497 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:14.767 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:14.893 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+run_idx:3 / 10: 2916.36 ms
+[I  8/20  1: 1:15.180 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:15.213 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:15.357 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:15.499 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:15.781 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:15.918 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:16.189 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:16.315 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:16.583 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:16.851 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:17.126 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:17.396 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:17.665 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:17.791 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+run_idx:4 / 10: 2899.78 ms
+[I  8/20  1: 1:18. 80 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:18.113 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:18.257 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:18.396 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:18.683 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:18.819 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:19. 95 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:19.224 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:19.497 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:19.779 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:20. 53 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:20.323 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:20.593 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:20.719 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+run_idx:5 / 10: 2925.67 ms
+[I  8/20  1: 1:20.  5 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:21. 39 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:21.185 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:21.324 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:21.609 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:21.746 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:22. 14 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:22.141 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:22.410 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:22.681 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:22.954 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:23.224 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:23.494 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:23.619 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+run_idx:6 / 10: 2902.35 ms
+[I  8/20  1: 1:23.908 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:23.942 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:24. 89 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:24.234 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:24.530 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:24.667 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:24.937 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:25. 63 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:25.333 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:25.602 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:25.877 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:26.146 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:26.417 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:26.544 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+run_idx:7 / 10: 2923.56 ms
+[I  8/20  1: 1:26.831 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:26.865 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:27.  9 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:27.150 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:27.434 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:27.570 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:27.849 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:27.974 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:28.245 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:28.513 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:28.788 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:29. 70 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:29.346 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:29.475 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+run_idx:8 / 10: 2932.63 ms
+[I  8/20  1: 1:29.764 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:29.799 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:29.944 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:30. 84 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:30.372 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:30.508 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:30.777 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:30.903 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:31.172 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:31.442 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:31.716 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:31.985 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:32.254 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:32.380 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+run_idx:9 / 10: 2901.27 ms
+[I  8/20  1: 1:32.665 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:32.699 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:32.844 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:32.984 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:33.270 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:33.407 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:33.676 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:33.801 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:34. 74 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:34.350 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:34.628 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:34.912 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:35.186 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+[I  8/20  1: 1:35.312 ...r/nnadapter/src/driver/lyf_npu/driver.cc:121 ExecuteProgram] ExecuteProgram for lyf_npu.
+run_idx:10 / 10: 2934.7 ms
+
+======= benchmark summary =======
+input_shape(s) (NCHW):1,3,224,224, :
+model_dir:../mobilenet_v1
+warmup:10
+repeats:10
+*** time info(ms) ***
+1st_duration:3066.37
+max_duration:2934.7
+min_duration:2899.78
+avg_duration:2914.36
+
+====== output summary ======
+output tensor num:1
+
+--- output tensor 0 ---
+output shape(NCHW):1 1000
+output tensor 0 elem num:1000
+output tensor 0 standard deviation:0.00219647
+output tensor 0 mean value:0.001
+[I  8/20  1: 1:35.600 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.600 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.600 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.601 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.601 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.601 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.601 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.601 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.601 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.602 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.602 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.602 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.602 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.602 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.602 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.602 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.602 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.602 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.602 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:108 DestroyProgram] DestroyProgram for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:110 DestroyProgram] Destroy program for lyf_npu.
+[I  8/20  1: 1:35.603 ...r/nnadapter/src/driver/lyf_npu/driver.cc:62 DestroyContext] DestroyContext for lyf_npu.
+root@WINDOWS-R839CVB:/Paddle-Lite/build.lite.linux.x86.gcc#

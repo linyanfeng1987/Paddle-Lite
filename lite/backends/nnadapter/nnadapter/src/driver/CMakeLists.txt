@@ -77,3 +77,7 @@ endif()
 if(NNADAPTER_WITH_EEASYTECH_NPU)
   add_subdirectory(eeasytech_npu)
 endif()
+
+if(NNADAPTER_WITH_LYF_NPU)
+  add_subdirectory(lyf_npu)
+endif()
